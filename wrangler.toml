@@ -1,0 +1,18 @@
+name = "kaizen"
+main = "build/worker/shim.mjs"
+compatibility_date = "2024-12-01"
+
+[build]
+command = "cargo build --release --target wasm32-unknown-unknown && mkdir -p build/worker && ~/.cargo/bin/wasm-bindgen --target bundler --out-dir build/worker target/wasm32-unknown-unknown/release/kaizen.wasm && cp src/shim.mjs build/worker/shim.mjs"
+
+# Cron trigger - runs daily at 9:00 UTC
+[triggers]
+crons = ["0 15 * * *"]
+
+[[kv_namespaces]]
+binding = "PAGE_STATE"
+id = "3f67e2d388f24c6fa6a7e5cee4a4cdd7"
+
+# Environment variables
+[vars]
+NTFY_TOPIC = "kaizen-jlpt-ucd-1"
