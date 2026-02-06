@@ -22,13 +22,21 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
 
     let body = response.text().await?;
 
-    // Check for 2026 content
-    let has_2026 = body.contains("2026");
+    // Extract only the <main>...</main> content to avoid false positives
+    // from navigation, footer, scripts, or analytics changes
+    let content_to_hash = if let (Some(start), Some(end)) = (body.find("<main>"), body.find("</main>")) {
+        &body[start..end + 7] // 7 = "</main>".len()
+    } else {
+        // Fall back to full body if <main> tags not found
+        body.as_str()
+    };
 
-    // Hash the entire page content
     let mut hasher = Sha256::new();
-    hasher.update(body.as_bytes());
+    hasher.update(content_to_hash.as_bytes());
     let content_hash = hex::encode(hasher.finalize());
+
+    // Check for 2026 content in main section only
+    let has_2026 = content_to_hash.contains("2026");
 
     // Get the KV namespace
     let kv = env.kv("PAGE_STATE")?;
