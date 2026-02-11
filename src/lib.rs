@@ -11,14 +11,27 @@ async fn scheduled(_event: ScheduledEvent, env: Env, _ctx: ScheduleContext) {
 
     if let Err(e) = check_jlpt_page(&env).await {
         console_error!("Error checking JLPT page: {:?}", e);
+        let _ = send_ntfy_notification(&env, &format!("JLPT checker error: {}", e)).await;
     }
 }
 
 async fn check_jlpt_page(env: &Env) -> Result<()> {
-    // Fetch the UCD JLPT page
-    let mut response = Fetch::Url(UCD_URL.parse().map_err(|_| Error::RustError("Invalid URL".into()))?)
-        .send()
-        .await?;
+    // Fetch the UCD JLPT page with a browser User-Agent
+    // (CloudFront blocks requests without one)
+    let headers = Headers::new();
+    headers.set("User-Agent", "Mozilla/5.0 (compatible; JLPT-Checker/1.0)")?;
+
+    let mut init = RequestInit::new();
+    init.with_headers(headers);
+
+    let request = Request::new_with_init(UCD_URL, &init)?;
+    let mut response = Fetch::Request(request).send().await?;
+
+    let status = response.status_code();
+    if status != 200 {
+        console_error!("Fetch returned HTTP {}", status);
+        return Err(Error::RustError(format!("HTTP {} from UCD page", status)));
+    }
 
     let body = response.text().await?;
 
