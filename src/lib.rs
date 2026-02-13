@@ -94,6 +94,7 @@ fn strip_dynamic_elements(html: &str) -> String {
             ("<script", "</script>"),
             ("<style", "</style>"),
             ("<noscript", "</noscript>"),
+            ("<footer", "</footer>"),
         ]
         .iter()
         .filter_map(|(open, close)| {
