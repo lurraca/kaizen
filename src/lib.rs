@@ -35,17 +35,14 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
 
     let body = response.text().await?;
 
-    // Extract only the <main>...</main> content to avoid false positives
-    // from navigation, footer, scripts, or analytics changes
-    let content_to_hash = if let (Some(start), Some(end)) = (body.find("<main>"), body.find("</main>")) {
-        &body[start..end + 7] // 7 = "</main>".len()
-    } else {
-        // Fall back to full body if <main> tags not found
-        body.as_str()
-    };
+    // Strip <script>, <style>, and <noscript> blocks to avoid false positives
+    // from analytics, GTM, tracking pixels, or injected CSS that vary between requests.
+    // The UCD page has no <main> tag, so we strip dynamic elements instead.
+    let content_to_hash = strip_dynamic_elements(&body);
 
     let mut hasher = Sha256::new();
     hasher.update(content_to_hash.as_bytes());
+    console_log!("Content hash: {}", hex::encode(hasher.clone().finalize()));
     let content_hash = hex::encode(hasher.finalize());
 
     // Check for 2026 content in main section only
@@ -71,8 +68,10 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
 
     console_log!("{}", message);
 
-    // Always send notification
-    send_ntfy_notification(env, message).await?;
+    // Only send notification when something noteworthy happened
+    if has_2026 || content_changed {
+        send_ntfy_notification(env, message).await?;
+    }
 
     // Update stored hash if content changed
     if content_changed {
@@ -80,6 +79,51 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
     }
 
     Ok(())
+}
+
+/// Remove `<script>`, `<style>`, and `<noscript>` blocks (and HTML comments)
+/// so the hash only covers visible page content.
+fn strip_dynamic_elements(html: &str) -> String {
+    let mut result = String::with_capacity(html.len());
+    let mut remaining = html;
+
+    while !remaining.is_empty() {
+        // Find the next tag to strip
+        let next_strip = [
+            ("<!--", "-->"),
+            ("<script", "</script>"),
+            ("<style", "</style>"),
+            ("<noscript", "</noscript>"),
+        ]
+        .iter()
+        .filter_map(|(open, close)| {
+            remaining
+                .to_ascii_lowercase()
+                .find(open)
+                .map(|pos| (pos, *open, *close))
+        })
+        .min_by_key(|(pos, _, _)| *pos);
+
+        match next_strip {
+            Some((pos, _open, close)) => {
+                result.push_str(&remaining[..pos]);
+                // Find the closing tag (case-insensitive)
+                let after_open = &remaining[pos..];
+                if let Some(end) = after_open.to_ascii_lowercase().find(close) {
+                    remaining = &after_open[end + close.len()..];
+                } else {
+                    // No closing tag found — skip the rest
+                    break;
+                }
+            }
+            None => {
+                result.push_str(remaining);
+                break;
+            }
+        }
+    }
+
+    result
 }
 
 async fn send_ntfy_notification(env: &Env, message: &str) -> Result<()> {
