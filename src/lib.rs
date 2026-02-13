@@ -68,10 +68,7 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
 
     console_log!("{}", message);
 
-    // Only send notification when something noteworthy happened
-    if has_2026 || content_changed {
-        send_ntfy_notification(env, message).await?;
-    }
+    send_ntfy_notification(env, message).await?;
 
     // Update stored hash if content changed
     if content_changed {
