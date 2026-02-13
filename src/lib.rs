@@ -42,8 +42,8 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
 
     let mut hasher = Sha256::new();
     hasher.update(content_to_hash.as_bytes());
-    console_log!("Content hash: {}", hex::encode(hasher.clone().finalize()));
     let content_hash = hex::encode(hasher.finalize());
+    console_log!("Content length: {}, hash: {}", content_to_hash.len(), content_hash);
 
     // Check for 2026 content in main section only
     let has_2026 = content_to_hash.contains("2026");
