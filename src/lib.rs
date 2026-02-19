@@ -57,6 +57,21 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
     // Check if content changed
     let content_changed = previous_hash.as_ref() != Some(&content_hash);
 
+    // Detailed logging for debugging false positives
+    if content_changed {
+        if let Some(ref prev_hash) = previous_hash {
+            console_log!("HASH_CHANGED: {} -> {}", prev_hash, content_hash);
+            // Store both hashes in KV for debugging
+            let _ = kv.put("previous_hash_debug", prev_hash)?.execute().await;
+            let _ = kv.put("current_hash_debug", &content_hash)?.execute().await;
+            let _ = kv.put("last_change_timestamp", &Date::now().to_string())?.execute().await;
+        } else {
+            console_log!("HASH_CHANGED: (no previous) -> {}", content_hash);
+        }
+    } else {
+        console_log!("HASH_UNCHANGED: {}", content_hash);
+    }
+
     // Build notification message based on what we found
     let message = if has_2026 {
         "JLPT 2026 dates may have been announced! Check https://www.ucd.ie/japan/exams/"
