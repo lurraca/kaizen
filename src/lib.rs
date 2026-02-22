@@ -7,13 +7,15 @@ const KV_KEY: &str = "page_content_hash";
 /// Entry point for scheduled (cron) events
 #[event(scheduled)]
 async fn scheduled(_event: ScheduledEvent, env: Env, _ctx: ScheduleContext) {
-    console_log!("JLPT checker running...");
+    console_log!("JLPT checker running (scheduled)...");
 
     if let Err(e) = check_jlpt_page(&env).await {
         console_error!("Error checking JLPT page: {:?}", e);
         let _ = send_ntfy_notification(&env, &format!("JLPT checker error: {}", e)).await;
     }
 }
+
+
 
 async fn check_jlpt_page(env: &Env) -> Result<()> {
     // Fetch the UCD JLPT page with a browser User-Agent
@@ -64,7 +66,7 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
             // Store both hashes in KV for debugging
             let _ = kv.put("previous_hash_debug", prev_hash)?.execute().await;
             let _ = kv.put("current_hash_debug", &content_hash)?.execute().await;
-            let _ = kv.put("last_change_timestamp", &Date::now().to_string())?.execute().await;
+            let _ = kv.put("last_change_timestamp", "triggered")?.execute().await;
         } else {
             console_log!("HASH_CHANGED: (no previous) -> {}", content_hash);
         }
