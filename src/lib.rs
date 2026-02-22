@@ -40,7 +40,8 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
     // Strip <script>, <style>, and <noscript> blocks to avoid false positives
     // from analytics, GTM, tracking pixels, or injected CSS that vary between requests.
     // The UCD page has no <main> tag, so we strip dynamic elements instead.
-    let content_to_hash = strip_dynamic_elements(&body);
+    let stripped = strip_dynamic_elements(&body);
+    let content_to_hash = extract_text(&stripped);
 
     let mut hasher = Sha256::new();
     hasher.update(content_to_hash.as_bytes());
@@ -93,6 +94,26 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
     }
 
     Ok(())
+}
+
+/// Extract only visible text content by stripping all HTML tags.
+/// This ensures the hash is stable against CMS structural changes (id/name attributes,
+/// tag restructuring) and only changes when actual text content changes.
+fn extract_text(html: &str) -> String {
+    let mut result = String::with_capacity(html.len());
+    let mut in_tag = false;
+    for ch in html.chars() {
+        match ch {
+            '<' => in_tag = true,
+            '>' => {
+                in_tag = false;
+                result.push(' ');
+            }
+            _ if !in_tag => result.push(ch),
+            _ => {}
+        }
+    }
+    result
 }
 
 /// Remove `<script>`, `<style>`, and `<noscript>` blocks (and HTML comments)
