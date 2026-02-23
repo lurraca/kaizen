@@ -1,0 +1,2759 @@
+[
+  {
+    "kanji": "一",
+    "meanings": [
+      "one"
+    ],
+    "on": [
+      "イチ",
+      "イツ"
+    ],
+    "kun": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "strokes": 1,
+    "heisig": "one",
+    "examples": [
+      {
+        "word": "一荷",
+        "reading": "いっか",
+        "meaning": "one load"
+      },
+      {
+        "word": "一驚",
+        "reading": "いっきょう",
+        "meaning": "surprise; amazement"
+      },
+      {
+        "word": "一世",
+        "reading": "いっせい",
+        "meaning": "generation; lifetime"
+      }
+    ]
+  },
+  {
+    "kanji": "右",
+    "meanings": [
+      "right"
+    ],
+    "on": [
+      "ウ",
+      "ユウ"
+    ],
+    "kun": [
+      "みぎ"
+    ],
+    "strokes": 5,
+    "heisig": "right",
+    "examples": [
+      {
+        "word": "極右",
+        "reading": "きょくう",
+        "meaning": "far right (in politics); extreme right"
+      },
+      {
+        "word": "右舞",
+        "reading": "うまい",
+        "meaning": "variety of court dance (Nara period)"
+      },
+      {
+        "word": "右腕",
+        "reading": "みぎうで",
+        "meaning": "right arm; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "雨",
+    "meanings": [
+      "rain"
+    ],
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "-さめ",
+      "あま-",
+      "あめ"
+    ],
+    "strokes": 8,
+    "heisig": "rain",
+    "examples": [
+      {
+        "word": "少雨",
+        "reading": "しょうう",
+        "meaning": "small amount of rainfall; (a) light rainfall"
+      },
+      {
+        "word": "雨雪",
+        "reading": "あめゆき",
+        "meaning": "sleet; see: "
+      },
+      {
+        "word": "雨滴",
+        "reading": "うてき",
+        "meaning": "raindrop"
+      }
+    ]
+  },
+  {
+    "kanji": "円",
+    "meanings": [
+      "circle",
+      "round",
+      "yen"
+    ],
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "まど",
+      "まど.か",
+      "まる",
+      "まる.い",
+      "まろ.やか"
+    ],
+    "strokes": 4,
+    "heisig": "circle",
+    "examples": [
+      {
+        "word": "新円",
+        "reading": "しんえん",
+        "meaning": "new yen (issued in 1946 to fight inflation)"
+      },
+      {
+        "word": "円塔",
+        "reading": "えんとう",
+        "meaning": "round tower"
+      },
+      {
+        "word": "円塚",
+        "reading": "まるづか",
+        "meaning": "round burial mound; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "下",
+    "meanings": [
+      "below",
+      "descend",
+      "down",
+      "give",
+      "inferior",
+      "low"
+    ],
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "-くだ.す",
+      "お.りる",
+      "お.ろす",
+      "くだ.さる",
+      "くだ.す",
+      "くだ.り",
+      "くだ.る",
+      "さ.がる",
+      "さ.げる",
+      "した",
+      "しも",
+      "もと"
+    ],
+    "strokes": 3,
+    "heisig": "below",
+    "examples": [
+      {
+        "word": "舌下",
+        "reading": "ぜっか",
+        "meaning": "sublingual; under the tongue"
+      },
+      {
+        "word": "放下",
+        "reading": "ほうか",
+        "meaning": "discarding; abandoning"
+      },
+      {
+        "word": "下合",
+        "reading": "かごう",
+        "meaning": "inferior conjunction; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "何",
+    "meanings": [
+      "what"
+    ],
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "なに",
+      "なに-",
+      "なん",
+      "なん-"
+    ],
+    "strokes": 7,
+    "heisig": "what",
+    "examples": [
+      {
+        "word": "何の",
+        "reading": "なんの",
+        "meaning": "what; what kind of"
+      },
+      {
+        "word": "何百",
+        "reading": "なんびゃく",
+        "meaning": "hundreds"
+      },
+      {
+        "word": "何事",
+        "reading": "なにごと",
+        "meaning": "what; what sort of thing"
+      }
+    ]
+  },
+  {
+    "kanji": "火",
+    "meanings": [
+      "fire"
+    ],
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "-び",
+      "ひ",
+      "ほ-"
+    ],
+    "strokes": 4,
+    "heisig": "fire",
+    "examples": [
+      {
+        "word": "裸火",
+        "reading": "はだかび",
+        "meaning": "naked flame; naked light"
+      },
+      {
+        "word": "防火",
+        "reading": "ぼうか",
+        "meaning": "fire prevention; fire control"
+      },
+      {
+        "word": "火先",
+        "reading": "ひさき",
+        "meaning": "flames; forefront of fire"
+      }
+    ]
+  },
+  {
+    "kanji": "外",
+    "meanings": [
+      "outside"
+    ],
+    "on": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kun": [
+      "そと",
+      "と-",
+      "はず.す",
+      "はず.れる",
+      "ほか"
+    ],
+    "strokes": 5,
+    "heisig": "outside",
+    "examples": [
+      {
+        "word": "格外",
+        "reading": "かくがい",
+        "meaning": "nonstandard; extraordinary"
+      },
+      {
+        "word": "塞外",
+        "reading": "さいがい",
+        "meaning": "outside a fort"
+      },
+      {
+        "word": "外航",
+        "reading": "がいこう",
+        "meaning": "foreign voyage; outward voyage"
+      }
+    ]
+  },
+  {
+    "kanji": "学",
+    "meanings": [
+      "learning",
+      "science",
+      "study"
+    ],
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "まな.ぶ"
+    ],
+    "strokes": 8,
+    "heisig": "study",
+    "examples": [
+      {
+        "word": "学帽",
+        "reading": "がくぼう",
+        "meaning": "school cap"
+      },
+      {
+        "word": "停学",
+        "reading": "ていがく",
+        "meaning": "suspension from school"
+      },
+      {
+        "word": "教学",
+        "reading": "きょうがく",
+        "meaning": "education and learning"
+      }
+    ]
+  },
+  {
+    "kanji": "間",
+    "meanings": [
+      "interval",
+      "space"
+    ],
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "あい",
+      "あいだ",
+      "ま"
+    ],
+    "strokes": 12,
+    "heisig": "interval",
+    "examples": [
+      {
+        "word": "車間",
+        "reading": "しゃかん",
+        "meaning": "(distance) between two cars; see: "
+      },
+      {
+        "word": "本間",
+        "reading": "ほんま",
+        "meaning": "see: ; 京間"
+      },
+      {
+        "word": "間男",
+        "reading": "まおとこ",
+        "meaning": "married woman's secret lover; paramour"
+      }
+    ]
+  },
+  {
+    "kanji": "気",
+    "meanings": [
+      "air",
+      "atmosphere",
+      "mind",
+      "mood",
+      "spirit"
+    ],
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "き"
+    ],
+    "strokes": 6,
+    "heisig": "spirit",
+    "examples": [
+      {
+        "word": "熱気",
+        "reading": "ねっき",
+        "meaning": "heat; hot air"
+      },
+      {
+        "word": "気孔",
+        "reading": "きこう",
+        "meaning": "pore; stoma"
+      },
+      {
+        "word": "疝気",
+        "reading": "せんき",
+        "meaning": "colic"
+      }
+    ]
+  },
+  {
+    "kanji": "休",
+    "meanings": [
+      "day off",
+      "rest",
+      "retire",
+      "sleep"
+    ],
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "やす.まる",
+      "やす.む",
+      "やす.める"
+    ],
+    "strokes": 6,
+    "heisig": "rest",
+    "examples": [
+      {
+        "word": "休業",
+        "reading": "きゅうぎょう",
+        "meaning": "suspension of business; shutdown"
+      },
+      {
+        "word": "休憩",
+        "reading": "きゅうけい",
+        "meaning": "rest; break"
+      },
+      {
+        "word": "振休",
+        "reading": "ふりきゅう",
+        "meaning": "substitute national holiday; compensatory holiday"
+      }
+    ]
+  },
+  {
+    "kanji": "金",
+    "meanings": [
+      "gold"
+    ],
+    "on": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "kun": [
+      "-がね",
+      "かな-",
+      "かね"
+    ],
+    "strokes": 8,
+    "heisig": "gold",
+    "examples": [
+      {
+        "word": "頭金",
+        "reading": "あたまきん",
+        "meaning": "down payment; deposit"
+      },
+      {
+        "word": "賜金",
+        "reading": "しきん",
+        "meaning": "monetary grant (from the government)"
+      },
+      {
+        "word": "烏金",
+        "reading": "からすがね",
+        "meaning": "money lent at daily interest"
+      }
+    ]
+  },
+  {
+    "kanji": "九",
+    "meanings": [
+      "nine"
+    ],
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "strokes": 2,
+    "heisig": "nine",
+    "examples": [
+      {
+        "word": "九品",
+        "reading": "くほん",
+        "meaning": "nine levels of Amitabha's Pure Land; see: "
+      },
+      {
+        "word": "九一",
+        "reading": "くっぴん",
+        "meaning": "scoring combination of a 9 and a 1 in oicho-kabu; see: "
+      },
+      {
+        "word": "二九",
+        "reading": "にく",
+        "meaning": "eighteen"
+      }
+    ]
+  },
+  {
+    "kanji": "月",
+    "meanings": [
+      "month",
+      "moon"
+    ],
+    "on": [
+      "ガツ",
+      "ゲツ"
+    ],
+    "kun": [
+      "つき"
+    ],
+    "strokes": 4,
+    "heisig": "month",
+    "examples": [
+      {
+        "word": "如月",
+        "reading": "きさらぎ",
+        "meaning": "second month of the lunar calendar"
+      },
+      {
+        "word": "幻月",
+        "reading": "げんげつ",
+        "meaning": "paraselene; moon dog"
+      },
+      {
+        "word": "年月",
+        "reading": "としつき",
+        "meaning": "months and years; How long did it take you to collect so many coins?"
+      }
+    ]
+  },
+  {
+    "kanji": "見",
+    "meanings": [
+      "chances",
+      "hopes",
+      "idea",
+      "look at",
+      "opinion",
+      "see",
+      "visible"
+    ],
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "み.える",
+      "み.せる",
+      "み.る"
+    ],
+    "strokes": 7,
+    "heisig": "see",
+    "examples": [
+      {
+        "word": "引見",
+        "reading": "いんけん",
+        "meaning": "audience; interview"
+      },
+      {
+        "word": "味見",
+        "reading": "あじみ",
+        "meaning": "tasting; sampling"
+      },
+      {
+        "word": "徹見",
+        "reading": "てっけん",
+        "meaning": "seeing clearly; seeing without obstruction"
+      }
+    ]
+  },
+  {
+    "kanji": "五",
+    "meanings": [
+      "five"
+    ],
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "strokes": 4,
+    "heisig": "five",
+    "examples": [
+      {
+        "word": "五割",
+        "reading": "ごわり",
+        "meaning": "fifty percent; half"
+      },
+      {
+        "word": "五度",
+        "reading": "ごど",
+        "meaning": "fifth (interval)"
+      },
+      {
+        "word": "五輪",
+        "reading": "ごりん",
+        "meaning": "Olympic Games; Olympics"
+      }
+    ]
+  },
+  {
+    "kanji": "午",
+    "meanings": [
+      "11AM-1PM",
+      "noon",
+      "seventh sign of Chinese zodiac",
+      "sign of the horse"
+    ],
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "うま"
+    ],
+    "strokes": 4,
+    "heisig": "noon",
+    "examples": [
+      {
+        "word": "午砲",
+        "reading": "ごほう",
+        "meaning": "noon gun; noonday gun"
+      },
+      {
+        "word": "正午",
+        "reading": "しょうご",
+        "meaning": "noon; midday"
+      },
+      {
+        "word": "壬午",
+        "reading": "みずのえうま",
+        "meaning": "see: ; 干支"
+      }
+    ]
+  },
+  {
+    "kanji": "後",
+    "meanings": [
+      "back",
+      "behind",
+      "later"
+    ],
+    "on": [
+      "コウ",
+      "ゴ"
+    ],
+    "kun": [
+      "あと",
+      "うし.ろ",
+      "うしろ",
+      "おく.れる",
+      "のち"
+    ],
+    "strokes": 9,
+    "heisig": "behind",
+    "examples": [
+      {
+        "word": "先後",
+        "reading": "せんご",
+        "meaning": "before and after; earlier and later"
+      },
+      {
+        "word": "銃後",
+        "reading": "じゅうご",
+        "meaning": "home front"
+      },
+      {
+        "word": "後場",
+        "reading": "ごば",
+        "meaning": "afternoon session (stock exchange); afternoon trading"
+      }
+    ]
+  },
+  {
+    "kanji": "語",
+    "meanings": [
+      "language",
+      "speech",
+      "word"
+    ],
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "かた.らう",
+      "かた.る"
+    ],
+    "strokes": 14,
+    "heisig": "word",
+    "examples": [
+      {
+        "word": "用語",
+        "reading": "ようご",
+        "meaning": "term; terminology"
+      },
+      {
+        "word": "物語",
+        "reading": "ものがたり",
+        "meaning": "story; tale"
+      },
+      {
+        "word": "統語",
+        "reading": "とうご",
+        "meaning": "syntactic"
+      }
+    ]
+  },
+  {
+    "kanji": "校",
+    "meanings": [
+      "correction",
+      "exam",
+      "printing",
+      "proof",
+      "school"
+    ],
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [],
+    "strokes": 10,
+    "heisig": "exam",
+    "examples": [
+      {
+        "word": "校時",
+        "reading": "こうじ",
+        "meaning": "counter for periods in a school day"
+      },
+      {
+        "word": "去校",
+        "reading": "きょこう",
+        "meaning": "leaving school (due to transfer)"
+      },
+      {
+        "word": "校紀",
+        "reading": "こうき",
+        "meaning": "school discipline"
+      }
+    ]
+  },
+  {
+    "kanji": "行",
+    "meanings": [
+      "act",
+      "bank",
+      "carry out",
+      "conduct",
+      "going",
+      "journey",
+      "line",
+      "row"
+    ],
+    "on": [
+      "アン",
+      "ギョウ",
+      "コウ"
+    ],
+    "kun": [
+      "-い.き",
+      "-いき",
+      "-ゆ.き",
+      "-ゆき",
+      "い.く",
+      "おこ.なう",
+      "おこな.う",
+      "ゆ.く"
+    ],
+    "strokes": 6,
+    "heisig": "going",
+    "examples": [
+      {
+        "word": "知行",
+        "reading": "ちぎょう",
+        "meaning": "carrying out one's duties"
+      },
+      {
+        "word": "大行",
+        "reading": "たいこう",
+        "meaning": "great enterprise; great task"
+      },
+      {
+        "word": "荒行",
+        "reading": "あらぎょう",
+        "meaning": "asceticism"
+      }
+    ]
+  },
+  {
+    "kanji": "高",
+    "meanings": [
+      "expensive",
+      "high",
+      "tall"
+    ],
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "-だか",
+      "たか",
+      "たか.い",
+      "たか.まる",
+      "たか.める"
+    ],
+    "strokes": 10,
+    "heisig": "tall",
+    "examples": [
+      {
+        "word": "３高",
+        "reading": "さんこう",
+        "meaning": "being highly educated, having a high salary and being tall; (literally)"
+      },
+      {
+        "word": "高塀",
+        "reading": "たかべい",
+        "meaning": "tall fence"
+      },
+      {
+        "word": "高値",
+        "reading": "たかね",
+        "meaning": "high price"
+      }
+    ]
+  },
+  {
+    "kanji": "国",
+    "meanings": [
+      "country"
+    ],
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "くに"
+    ],
+    "strokes": 8,
+    "heisig": "country",
+    "examples": [
+      {
+        "word": "国利",
+        "reading": "こくり",
+        "meaning": "national interests"
+      },
+      {
+        "word": "国者",
+        "reading": "くにもの",
+        "meaning": "country bumpkin; see: "
+      },
+      {
+        "word": "治国",
+        "reading": "ちこく",
+        "meaning": "government"
+      }
+    ]
+  },
+  {
+    "kanji": "今",
+    "meanings": [
+      "now"
+    ],
+    "on": [
+      "キン",
+      "コン"
+    ],
+    "kun": [
+      "いま"
+    ],
+    "strokes": 4,
+    "heisig": "now",
+    "examples": [
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month"
+      },
+      {
+        "word": "今今",
+        "reading": "いまいま",
+        "meaning": "right now"
+      },
+      {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "this evening; tonight"
+      }
+    ]
+  },
+  {
+    "kanji": "左",
+    "meanings": [
+      "left"
+    ],
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "ひだり"
+    ],
+    "strokes": 5,
+    "heisig": "left",
+    "examples": [
+      {
+        "word": "左様",
+        "reading": "さよう",
+        "meaning": "so; like that"
+      },
+      {
+        "word": "左官",
+        "reading": "さかん",
+        "meaning": "plasterer"
+      },
+      {
+        "word": "左足",
+        "reading": "ひだりあし",
+        "meaning": "left foot"
+      }
+    ]
+  },
+  {
+    "kanji": "三",
+    "meanings": [
+      "three"
+    ],
+    "on": [
+      "サン",
+      "ゾウ"
+    ],
+    "kun": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "strokes": 3,
+    "heisig": "three",
+    "examples": [
+      {
+        "word": "三傑",
+        "reading": "さんけつ",
+        "meaning": "see: ; 維新の三傑"
+      },
+      {
+        "word": "三洋",
+        "reading": "さんよう",
+        "meaning": "Sanyo"
+      },
+      {
+        "word": "三越",
+        "reading": "みつこし",
+        "meaning": "Mitsukoshi"
+      }
+    ]
+  },
+  {
+    "kanji": "山",
+    "meanings": [
+      "mountain"
+    ],
+    "on": [
+      "サン",
+      "セン"
+    ],
+    "kun": [
+      "やま"
+    ],
+    "strokes": 3,
+    "heisig": "mountain",
+    "examples": [
+      {
+        "word": "山蟻",
+        "reading": "やまあり",
+        "meaning": "wood ant (any ant of genus Formica)"
+      },
+      {
+        "word": "山路",
+        "reading": "やまじ",
+        "meaning": "mountain path"
+      },
+      {
+        "word": "山主",
+        "reading": "さんしゅ",
+        "meaning": "head priest (at a Buddhist temple)"
+      }
+    ]
+  },
+  {
+    "kanji": "四",
+    "meanings": [
+      "four"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "strokes": 5,
+    "heisig": "four",
+    "examples": [
+      {
+        "word": "第四",
+        "reading": "だいよん",
+        "meaning": "fourth"
+      },
+      {
+        "word": "四瑞",
+        "reading": "しずい",
+        "meaning": "the four auspicious beasts from Chinese mythology; see: "
+      },
+      {
+        "word": "四海",
+        "reading": "しかい",
+        "meaning": "the whole world; the seven seas"
+      }
+    ]
+  },
+  {
+    "kanji": "子",
+    "meanings": [
+      "11PM-1AM",
+      "child",
+      "first sign of Chinese zodiac",
+      "sign of the rat"
+    ],
+    "on": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "kun": [
+      "-こ",
+      "こ",
+      "ね"
+    ],
+    "strokes": 3,
+    "heisig": "child",
+    "examples": [
+      {
+        "word": "児子",
+        "reading": "じし",
+        "meaning": "child; children"
+      },
+      {
+        "word": "燕子",
+        "reading": "えんし",
+        "meaning": "swallow; see: "
+      },
+      {
+        "word": "板子",
+        "reading": "いたご",
+        "meaning": "ship plank"
+      }
+    ]
+  },
+  {
+    "kanji": "時",
+    "meanings": [
+      "hour",
+      "time"
+    ],
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "-どき",
+      "とき"
+    ],
+    "strokes": 10,
+    "heisig": "time",
+    "examples": [
+      {
+        "word": "校時",
+        "reading": "こうじ",
+        "meaning": "counter for periods in a school day"
+      },
+      {
+        "word": "昔時",
+        "reading": "せきじ",
+        "meaning": "old times; former times"
+      },
+      {
+        "word": "現時",
+        "reading": "げんじ",
+        "meaning": "now; the present time"
+      }
+    ]
+  },
+  {
+    "kanji": "七",
+    "meanings": [
+      "seven"
+    ],
+    "on": [
+      "シチ"
+    ],
+    "kun": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "strokes": 2,
+    "heisig": "seven",
+    "examples": [
+      {
+        "word": "七珍",
+        "reading": "しっちん",
+        "meaning": "see: ; 七宝"
+      },
+      {
+        "word": "七夕",
+        "reading": "たなばた",
+        "meaning": "Star Festival (held in July or August); Tanabata"
+      },
+      {
+        "word": "七賢",
+        "reading": "しちけん",
+        "meaning": "the Seven Wise Men (of Confucius's Analects); see: "
+      }
+    ]
+  },
+  {
+    "kanji": "車",
+    "meanings": [
+      "car"
+    ],
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "くるま"
+    ],
+    "strokes": 7,
+    "heisig": "car",
+    "examples": [
+      {
+        "word": "車賃",
+        "reading": "くるまちん",
+        "meaning": "carfare; cartage fee"
+      },
+      {
+        "word": "車間",
+        "reading": "しゃかん",
+        "meaning": "(distance) between two cars; see: "
+      },
+      {
+        "word": "新車",
+        "reading": "しんしゃ",
+        "meaning": "new car"
+      }
+    ]
+  },
+  {
+    "kanji": "十",
+    "meanings": [
+      "ten"
+    ],
+    "on": [
+      "ジッ",
+      "ジュウ",
+      "ジュッ"
+    ],
+    "kun": [
+      "そ",
+      "と",
+      "とお"
+    ],
+    "strokes": 2,
+    "heisig": "ten",
+    "examples": [
+      {
+        "word": "十五",
+        "reading": "トゴ",
+        "meaning": "black-market loan charging 50% interest every ten days; from 十日で五割"
+      },
+      {
+        "word": "十戒",
+        "reading": "じっかい",
+        "meaning": "the ten precepts"
+      },
+      {
+        "word": "十進",
+        "reading": "じっしん",
+        "meaning": "decimal; denary"
+      }
+    ]
+  },
+  {
+    "kanji": "出",
+    "meanings": [
+      "come out",
+      "exit",
+      "go out",
+      "leave",
+      "protrude",
+      "put out"
+    ],
+    "on": [
+      "シュツ",
+      "スイ"
+    ],
+    "kun": [
+      "-だ.す",
+      "-で",
+      "い.だす",
+      "い.でる",
+      "だ.す",
+      "で.る"
+    ],
+    "strokes": 5,
+    "heisig": "exit",
+    "examples": [
+      {
+        "word": "出刃",
+        "reading": "でば",
+        "meaning": "broad-bladed kitchen knife (for dressing fish); see: "
+      },
+      {
+        "word": "出自",
+        "reading": "しゅつじ",
+        "meaning": "origin; birthplace"
+      },
+      {
+        "word": "出航",
+        "reading": "しゅっこう",
+        "meaning": "departure (of a boat, plane); setting sail"
+      }
+    ]
+  },
+  {
+    "kanji": "書",
+    "meanings": [
+      "write"
+    ],
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "-が.き",
+      "-がき",
+      "か.く"
+    ],
+    "strokes": 10,
+    "heisig": "write",
+    "examples": [
+      {
+        "word": "洋書",
+        "reading": "ようしょ",
+        "meaning": "Western book"
+      },
+      {
+        "word": "真書",
+        "reading": "しんしょ",
+        "meaning": "printed style (of writing Chinese characters); square style"
+      },
+      {
+        "word": "叢書",
+        "reading": "そうしょ",
+        "meaning": "series (of publications); library (set of books)"
+      }
+    ]
+  },
+  {
+    "kanji": "女",
+    "meanings": [
+      "female",
+      "woman"
+    ],
+    "on": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "kun": [
+      "おんな",
+      "め"
+    ],
+    "strokes": 3,
+    "heisig": "woman",
+    "examples": [
+      {
+        "word": "女尊",
+        "reading": "じょそん",
+        "meaning": "respect for women"
+      },
+      {
+        "word": "才女",
+        "reading": "さいじょ",
+        "meaning": "talented woman"
+      },
+      {
+        "word": "老女",
+        "reading": "ろうじょ",
+        "meaning": "elderly woman"
+      }
+    ]
+  },
+  {
+    "kanji": "小",
+    "meanings": [
+      "little",
+      "small"
+    ],
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "お-",
+      "こ-",
+      "さ-",
+      "ちい.さい"
+    ],
+    "strokes": 3,
+    "heisig": "little",
+    "examples": [
+      {
+        "word": "小父",
+        "reading": "おじ",
+        "meaning": "old man; mister"
+      },
+      {
+        "word": "小粋",
+        "reading": "こいき",
+        "meaning": "stylish; smart"
+      },
+      {
+        "word": "小人",
+        "reading": "こびと",
+        "meaning": "dwarf; midget"
+      }
+    ]
+  },
+  {
+    "kanji": "上",
+    "meanings": [
+      "above",
+      "up"
+    ],
+    "on": [
+      "シャン",
+      "ショウ",
+      "ジョウ"
+    ],
+    "kun": [
+      "-あ.がり",
+      "-あ.がる",
+      "-あ.げる",
+      "-うえ",
+      "あ.がり",
+      "あ.がる",
+      "あ.げる",
+      "うえ",
+      "うわ-",
+      "かみ",
+      "たてまつ.る",
+      "のぼ.す",
+      "のぼ.せる",
+      "のぼ.り",
+      "のぼ.る"
+    ],
+    "strokes": 3,
+    "heisig": "above",
+    "examples": [
+      {
+        "word": "上番",
+        "reading": "じょうばん",
+        "meaning": "being on duty"
+      },
+      {
+        "word": "上合",
+        "reading": "じょうごう",
+        "meaning": "superior conjunction; see: "
+      },
+      {
+        "word": "兄上",
+        "reading": "あにうえ",
+        "meaning": "older brother"
+      }
+    ]
+  },
+  {
+    "kanji": "食",
+    "meanings": [
+      "eat",
+      "food"
+    ],
+    "on": [
+      "ショク",
+      "ジキ"
+    ],
+    "kun": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "strokes": 9,
+    "heisig": "eat",
+    "examples": [
+      {
+        "word": "食禄",
+        "reading": "しょくろく",
+        "meaning": "salary; stipend"
+      },
+      {
+        "word": "東食",
+        "reading": "とうしょく",
+        "meaning": "Toshoku (Japanese trading company)"
+      },
+      {
+        "word": "絶食",
+        "reading": "ぜっしょく",
+        "meaning": "fasting"
+      }
+    ]
+  },
+  {
+    "kanji": "人",
+    "meanings": [
+      "person"
+    ],
+    "on": [
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "-と",
+      "-り",
+      "ひと"
+    ],
+    "strokes": 2,
+    "heisig": "person",
+    "examples": [
+      {
+        "word": "伊人",
+        "reading": "いじん",
+        "meaning": "Italian (person); see: "
+      },
+      {
+        "word": "鮮人",
+        "reading": "せんじん",
+        "meaning": "Korean person"
+      },
+      {
+        "word": "人夫",
+        "reading": "にんぷ",
+        "meaning": "laborer (labourer); construction worker"
+      }
+    ]
+  },
+  {
+    "kanji": "水",
+    "meanings": [
+      "water"
+    ],
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "みず",
+      "みず-"
+    ],
+    "strokes": 4,
+    "heisig": "water",
+    "examples": [
+      {
+        "word": "井水",
+        "reading": "せいすい",
+        "meaning": "well water"
+      },
+      {
+        "word": "除水",
+        "reading": "じょすい",
+        "meaning": "removing water; draining"
+      },
+      {
+        "word": "水音",
+        "reading": "みずおと",
+        "meaning": "sound of water"
+      }
+    ]
+  },
+  {
+    "kanji": "生",
+    "meanings": [
+      "birth",
+      "genuine",
+      "life"
+    ],
+    "on": [
+      "ショウ",
+      "セイ"
+    ],
+    "kun": [
+      "-う",
+      "い.かす",
+      "い.きる",
+      "い.ける",
+      "う.まれ",
+      "う.まれる",
+      "う.む",
+      "うま.れる",
+      "うまれ",
+      "お.う",
+      "き",
+      "な.す",
+      "な.る",
+      "なま",
+      "なま-",
+      "は.える",
+      "は.やす",
+      "む.す"
+    ],
+    "strokes": 5,
+    "heisig": "life",
+    "examples": [
+      {
+        "word": "生者",
+        "reading": "せいしゃ",
+        "meaning": "living person; the living"
+      },
+      {
+        "word": "生態",
+        "reading": "せいたい",
+        "meaning": "ecology; life and habits (of an animal)"
+      },
+      {
+        "word": "生地",
+        "reading": "きじ",
+        "meaning": "cloth; fabric"
+      }
+    ]
+  },
+  {
+    "kanji": "西",
+    "meanings": [
+      "Spain",
+      "west"
+    ],
+    "on": [
+      "サイ",
+      "ス",
+      "セイ"
+    ],
+    "kun": [
+      "にし"
+    ],
+    "strokes": 6,
+    "heisig": "west",
+    "examples": [
+      {
+        "word": "西諺",
+        "reading": "せいげん",
+        "meaning": "Western saying; Western proverb"
+      },
+      {
+        "word": "西蔵",
+        "reading": "せいぞう",
+        "meaning": "Tibet; see: "
+      },
+      {
+        "word": "西夏",
+        "reading": "せいか",
+        "meaning": "Western Xia (1038-1227); Western Hsia"
+      }
+    ]
+  },
+  {
+    "kanji": "先",
+    "meanings": [
+      "ahead",
+      "before",
+      "future",
+      "precedence",
+      "previous"
+    ],
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "さき",
+      "ま.ず"
+    ],
+    "strokes": 6,
+    "heisig": "before",
+    "examples": [
+      {
+        "word": "先史",
+        "reading": "せんし",
+        "meaning": "prehistory"
+      },
+      {
+        "word": "先後",
+        "reading": "せんご",
+        "meaning": "before and after; earlier and later"
+      },
+      {
+        "word": "先頃",
+        "reading": "さきごろ",
+        "meaning": "recently; the other day"
+      }
+    ]
+  },
+  {
+    "kanji": "千",
+    "meanings": [
+      "thousand"
+    ],
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "strokes": 3,
+    "heisig": "thousand",
+    "examples": [
+      {
+        "word": "千般",
+        "reading": "せんぱん",
+        "meaning": "variety"
+      },
+      {
+        "word": "千秋",
+        "reading": "せんしゅう",
+        "meaning": "thousand years; many years"
+      },
+      {
+        "word": "千家",
+        "reading": "せんけ",
+        "meaning": "Senke school of tea ceremony"
+      }
+    ]
+  },
+  {
+    "kanji": "川",
+    "meanings": [
+      "river",
+      "river or three-stroke river radical (no. 47)",
+      "stream"
+    ],
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "strokes": 3,
+    "heisig": "stream",
+    "examples": [
+      {
+        "word": "川面",
+        "reading": "かわも",
+        "meaning": "river surface; surface of a river"
+      },
+      {
+        "word": "川魚",
+        "reading": "かわうお",
+        "meaning": "river fish; freshwater fish"
+      },
+      {
+        "word": "川鉄",
+        "reading": "かわてつ",
+        "meaning": "Kawasaki Steel Corporation (abbr)"
+      }
+    ]
+  },
+  {
+    "kanji": "前",
+    "meanings": [
+      "before",
+      "in front"
+    ],
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "-まえ",
+      "まえ"
+    ],
+    "strokes": 9,
+    "heisig": "in front",
+    "examples": [
+      {
+        "word": "前非",
+        "reading": "ぜんぴ",
+        "meaning": "past misdeed; past error"
+      },
+      {
+        "word": "前例",
+        "reading": "ぜんれい",
+        "meaning": "precedent"
+      },
+      {
+        "word": "前に",
+        "reading": "まえに",
+        "meaning": "ahead; before"
+      }
+    ]
+  },
+  {
+    "kanji": "大",
+    "meanings": [
+      "big",
+      "large"
+    ],
+    "on": [
+      "タイ",
+      "ダイ"
+    ],
+    "kun": [
+      "-おお.いに",
+      "おお-",
+      "おお.きい"
+    ],
+    "strokes": 3,
+    "heisig": "large",
+    "examples": [
+      {
+        "word": "大巧",
+        "reading": "たいこう",
+        "meaning": "great talent"
+      },
+      {
+        "word": "大行",
+        "reading": "たいこう",
+        "meaning": "great enterprise; great task"
+      },
+      {
+        "word": "大祭",
+        "reading": "たいさい",
+        "meaning": "grand festival"
+      }
+    ]
+  },
+  {
+    "kanji": "男",
+    "meanings": [
+      "male"
+    ],
+    "on": [
+      "ダン",
+      "ナン"
+    ],
+    "kun": [
+      "お",
+      "おとこ"
+    ],
+    "strokes": 7,
+    "heisig": "male/man",
+    "examples": [
+      {
+        "word": "喪男",
+        "reading": "もおとこ",
+        "meaning": "unpopular man; man who isn't well-liked by women"
+      },
+      {
+        "word": "京男",
+        "reading": "きょうおとこ",
+        "meaning": "Kyoto man; man from Kyoto"
+      },
+      {
+        "word": "間男",
+        "reading": "まおとこ",
+        "meaning": "married woman's secret lover; paramour"
+      }
+    ]
+  },
+  {
+    "kanji": "中",
+    "meanings": [
+      "center",
+      "in",
+      "inside",
+      "mean",
+      "middle"
+    ],
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "あた.る",
+      "うち",
+      "なか"
+    ],
+    "strokes": 4,
+    "heisig": "in",
+    "examples": [
+      {
+        "word": "中層",
+        "reading": "ちゅうそう",
+        "meaning": "middle part; medium depth (water)"
+      },
+      {
+        "word": "中性",
+        "reading": "ちゅうせい",
+        "meaning": "indifference"
+      },
+      {
+        "word": "敵中",
+        "reading": "てきちゅう",
+        "meaning": "in the midst of the enemy"
+      }
+    ]
+  },
+  {
+    "kanji": "長",
+    "meanings": [
+      "leader",
+      "long",
+      "senior",
+      "superior"
+    ],
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "おさ",
+      "なが.い"
+    ],
+    "strokes": 8,
+    "heisig": "long",
+    "examples": [
+      {
+        "word": "長枝",
+        "reading": "ちょうし",
+        "meaning": "long shoot"
+      },
+      {
+        "word": "長春",
+        "reading": "ちょうしゅん",
+        "meaning": "everlasting spring"
+      },
+      {
+        "word": "艇長",
+        "reading": "ていちょう",
+        "meaning": "skipper (of a small boat); coxswain"
+      }
+    ]
+  },
+  {
+    "kanji": "天",
+    "meanings": [
+      "heavens",
+      "imperial",
+      "sky"
+    ],
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "あま-",
+      "あまつ",
+      "あめ"
+    ],
+    "strokes": 4,
+    "heisig": "heavens",
+    "examples": [
+      {
+        "word": "天為",
+        "reading": "てんい",
+        "meaning": "providential; natural"
+      },
+      {
+        "word": "天津",
+        "reading": "てんしん",
+        "meaning": "Tianjin (China)"
+      },
+      {
+        "word": "帰天",
+        "reading": "きてん",
+        "meaning": "death of a Christian (in Catholicism); see: "
+      }
+    ]
+  },
+  {
+    "kanji": "電",
+    "meanings": [
+      "electricity"
+    ],
+    "on": [
+      "デン"
+    ],
+    "kun": [],
+    "strokes": 13,
+    "heisig": "electricity",
+    "examples": [
+      {
+        "word": "圧電",
+        "reading": "あつでん",
+        "meaning": "piezoelectric"
+      },
+      {
+        "word": "電鍵",
+        "reading": "でんけん",
+        "meaning": "telegraph key (switching device used to send Morse code)"
+      },
+      {
+        "word": "別電",
+        "reading": "べつでん",
+        "meaning": "separate telegram; different telegram"
+      }
+    ]
+  },
+  {
+    "kanji": "土",
+    "meanings": [
+      "Turkey",
+      "earth",
+      "ground",
+      "soil"
+    ],
+    "on": [
+      "ト",
+      "ド"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "strokes": 3,
+    "heisig": "soil",
+    "examples": [
+      {
+        "word": "土足",
+        "reading": "どそく",
+        "meaning": "shod feet; wearing shoes"
+      },
+      {
+        "word": "重土",
+        "reading": "じゅうど",
+        "meaning": "barium oxide; see: "
+      },
+      {
+        "word": "土楼",
+        "reading": "どろう",
+        "meaning": "tulou (traditional rural dwelling in Fujian, China); see: "
+      }
+    ]
+  },
+  {
+    "kanji": "東",
+    "meanings": [
+      "east"
+    ],
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひがし"
+    ],
+    "strokes": 8,
+    "heisig": "east",
+    "examples": [
+      {
+        "word": "東食",
+        "reading": "とうしょく",
+        "meaning": "Toshoku (Japanese trading company)"
+      },
+      {
+        "word": "東雅",
+        "reading": "とうが",
+        "meaning": "Toga (Japanese etymological text by Arai Hakuseki, 1719)"
+      },
+      {
+        "word": "東壁",
+        "reading": "とうへき",
+        "meaning": "east wall; east face (of a mountain)"
+      }
+    ]
+  },
+  {
+    "kanji": "読",
+    "meanings": [
+      "read"
+    ],
+    "on": [
+      "トウ",
+      "トク",
+      "ドク"
+    ],
+    "kun": [
+      "-よ.み",
+      "よ.む"
+    ],
+    "strokes": 14,
+    "heisig": "read",
+    "examples": [
+      {
+        "word": "読点",
+        "reading": "とうてん",
+        "meaning": "comma"
+      },
+      {
+        "word": "読誦",
+        "reading": "どくじゅ",
+        "meaning": "reading aloud; recitation"
+      },
+      {
+        "word": "読譜",
+        "reading": "どくふ",
+        "meaning": "reading music"
+      }
+    ]
+  },
+  {
+    "kanji": "南",
+    "meanings": [
+      "south"
+    ],
+    "on": [
+      "ナ",
+      "ナン"
+    ],
+    "kun": [
+      "みなみ"
+    ],
+    "strokes": 9,
+    "heisig": "south",
+    "examples": [
+      {
+        "word": "南征",
+        "reading": "なんせい",
+        "meaning": "southern expedition; military campaign to the south"
+      },
+      {
+        "word": "南宋",
+        "reading": "なんそう",
+        "meaning": "Southern Song dynasty (of China; 1127-1279); see: "
+      },
+      {
+        "word": "南方",
+        "reading": "なんぽう",
+        "meaning": "the south; southward"
+      }
+    ]
+  },
+  {
+    "kanji": "二",
+    "meanings": [
+      "two",
+      "two radical (no. 7)"
+    ],
+    "on": [
+      "ジ",
+      "ニ"
+    ],
+    "kun": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "strokes": 2,
+    "heisig": "two",
+    "examples": [
+      {
+        "word": "二徹",
+        "reading": "にてつ",
+        "meaning": "staying up all night two nights in a row; double all-nighter"
+      },
+      {
+        "word": "二封",
+        "reading": "にふう",
+        "meaning": "forced out on second"
+      },
+      {
+        "word": "二死",
+        "reading": "にし",
+        "meaning": "two out; two down (and one to go)"
+      }
+    ]
+  },
+  {
+    "kanji": "日",
+    "meanings": [
+      "Japan",
+      "counter for days",
+      "day",
+      "sun"
+    ],
+    "on": [
+      "ジツ",
+      "ニチ"
+    ],
+    "kun": [
+      "-か",
+      "-び",
+      "ひ"
+    ],
+    "strokes": 4,
+    "heisig": "day",
+    "examples": [
+      {
+        "word": "良日",
+        "reading": "りょうじつ",
+        "meaning": "lucky (auspicious) day"
+      },
+      {
+        "word": "夏日",
+        "reading": "なつび",
+        "meaning": "hot summer day"
+      },
+      {
+        "word": "日航",
+        "reading": "にっこう",
+        "meaning": "Japan Airlines (abbr); JAL"
+      }
+    ]
+  },
+  {
+    "kanji": "入",
+    "meanings": [
+      "enter",
+      "insert"
+    ],
+    "on": [
+      "ジュ",
+      "ニュウ"
+    ],
+    "kun": [
+      "-い.り",
+      "-い.る",
+      "-い.れ",
+      "い.る",
+      "い.れる",
+      "はい.る"
+    ],
+    "strokes": 2,
+    "heisig": "enter",
+    "examples": [
+      {
+        "word": "入島",
+        "reading": "にゅうとう",
+        "meaning": "going onto an island; arriving on an island"
+      },
+      {
+        "word": "入監",
+        "reading": "にゅうかん",
+        "meaning": "imprisonment"
+      },
+      {
+        "word": "入津",
+        "reading": "にゅうしん",
+        "meaning": "entering a port"
+      }
+    ]
+  },
+  {
+    "kanji": "年",
+    "meanings": [
+      "counter for years",
+      "year"
+    ],
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "とし"
+    ],
+    "strokes": 6,
+    "heisig": "year",
+    "examples": [
+      {
+        "word": "カ年",
+        "reading": "かねん",
+        "meaning": "counter for years"
+      },
+      {
+        "word": "年功",
+        "reading": "ねんこう",
+        "meaning": "long service"
+      },
+      {
+        "word": "年回",
+        "reading": "ねんかい",
+        "meaning": "death anniversary; Buddhist anniversary service"
+      }
+    ]
+  },
+  {
+    "kanji": "白",
+    "meanings": [
+      "white"
+    ],
+    "on": [
+      "ハク",
+      "ビャク"
+    ],
+    "kun": [
+      "しら-",
+      "しろ",
+      "しろ.い"
+    ],
+    "strokes": 5,
+    "heisig": "white",
+    "examples": [
+      {
+        "word": "一白",
+        "reading": "いっぱく",
+        "meaning": "see: ; 九星"
+      },
+      {
+        "word": "白橡",
+        "reading": "しらつるばみ",
+        "meaning": "pale grey; pale gray"
+      },
+      {
+        "word": "白朮",
+        "reading": "びゃくじゅつ",
+        "meaning": "atractylodes rhizome (used in herbal medicine)"
+      }
+    ]
+  },
+  {
+    "kanji": "八",
+    "meanings": [
+      "eight",
+      "eight radical (no. 12)"
+    ],
+    "on": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kun": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "strokes": 2,
+    "heisig": "eight",
+    "examples": [
+      {
+        "word": "八重",
+        "reading": "やえ",
+        "meaning": "multilayered; doubled"
+      },
+      {
+        "word": "八紘",
+        "reading": "はっこう",
+        "meaning": "the eight directions; the whole land"
+      },
+      {
+        "word": "八端",
+        "reading": "はったん",
+        "meaning": "twilled fabric; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "半",
+    "meanings": [
+      "half",
+      "middle",
+      "odd number",
+      "part-",
+      "semi-"
+    ],
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "なか.ば"
+    ],
+    "strokes": 5,
+    "heisig": "half",
+    "examples": [
+      {
+        "word": "半死",
+        "reading": "はんし",
+        "meaning": "half-dead"
+      },
+      {
+        "word": "夜半",
+        "reading": "やはん",
+        "meaning": "middle of the night; dead of night"
+      },
+      {
+        "word": "半間",
+        "reading": "はんま",
+        "meaning": "something unfinished; something incomplete"
+      }
+    ]
+  },
+  {
+    "kanji": "百",
+    "meanings": [
+      "hundred"
+    ],
+    "on": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "strokes": 6,
+    "heisig": "hundred",
+    "examples": [
+      {
+        "word": "百度",
+        "reading": "ひゃくど",
+        "meaning": "hundred times"
+      },
+      {
+        "word": "何百",
+        "reading": "なんびゃく",
+        "meaning": "hundreds"
+      },
+      {
+        "word": "百済",
+        "reading": "くだら",
+        "meaning": "Baekje (ancient Korean kingdom; 18 BCE-660 CE); Paekche"
+      }
+    ]
+  },
+  {
+    "kanji": "父",
+    "meanings": [
+      "father"
+    ],
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "ちち"
+    ],
+    "strokes": 4,
+    "heisig": "father",
+    "examples": [
+      {
+        "word": "小父",
+        "reading": "おじ",
+        "meaning": "old man; mister"
+      },
+      {
+        "word": "乃父",
+        "reading": "だいふ",
+        "meaning": "father"
+      },
+      {
+        "word": "父権",
+        "reading": "ふけん",
+        "meaning": "paternal rights; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "聞",
+    "meanings": [
+      "ask",
+      "hear",
+      "listen"
+    ],
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [
+      "き.く",
+      "き.こえる"
+    ],
+    "strokes": 14,
+    "heisig": "hear",
+    "examples": [
+      {
+        "word": "探聞",
+        "reading": "たんぶん",
+        "meaning": "inquisitive questioning"
+      },
+      {
+        "word": "凶聞",
+        "reading": "きょうぶん",
+        "meaning": "bad news"
+      },
+      {
+        "word": "旧聞",
+        "reading": "きゅうぶん",
+        "meaning": "old news"
+      }
+    ]
+  },
+  {
+    "kanji": "母",
+    "meanings": [
+      "mother"
+    ],
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "はは",
+      "も"
+    ],
+    "strokes": 5,
+    "heisig": "mama",
+    "examples": [
+      {
+        "word": "母娘",
+        "reading": "おやこ",
+        "meaning": "mother and daughter"
+      },
+      {
+        "word": "父母",
+        "reading": "ふぼ",
+        "meaning": "father and mother; parents"
+      },
+      {
+        "word": "母側",
+        "reading": "ははがわ",
+        "meaning": "mother's side (of the family)"
+      }
+    ]
+  },
+  {
+    "kanji": "北",
+    "meanings": [
+      "north"
+    ],
+    "on": [
+      "ホク"
+    ],
+    "kun": [
+      "きた"
+    ],
+    "strokes": 5,
+    "heisig": "north",
+    "examples": [
+      {
+        "word": "北行",
+        "reading": "ほっこう",
+        "meaning": "going north; heading northward"
+      },
+      {
+        "word": "北宋",
+        "reading": "ほくそう",
+        "meaning": "Northern Song dynasty (of China; 960-1127); see: "
+      },
+      {
+        "word": "東北",
+        "reading": "とうほく",
+        "meaning": "north-east"
+      }
+    ]
+  },
+  {
+    "kanji": "本",
+    "meanings": [
+      "book",
+      "counter for long cylindrical things",
+      "main",
+      "origin",
+      "present",
+      "real",
+      "true"
+    ],
+    "on": [
+      "ホン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "strokes": 5,
+    "heisig": "book",
+    "examples": [
+      {
+        "word": "本営",
+        "reading": "ほんえい",
+        "meaning": "headquarters"
+      },
+      {
+        "word": "本人",
+        "reading": "ほんにん",
+        "meaning": "the person in question; the person themselves"
+      },
+      {
+        "word": "本間",
+        "reading": "ほんま",
+        "meaning": "see: ; 京間"
+      }
+    ]
+  },
+  {
+    "kanji": "毎",
+    "meanings": [
+      "every"
+    ],
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "-ごと.に",
+      "ごと"
+    ],
+    "strokes": 6,
+    "heisig": "every",
+    "examples": [
+      {
+        "word": "毎夏",
+        "reading": "まいなつ",
+        "meaning": "every summer"
+      },
+      {
+        "word": "毎分",
+        "reading": "まいふん",
+        "meaning": "every minute; per minute"
+      },
+      {
+        "word": "毎々",
+        "reading": "まいまい",
+        "meaning": "each time; frequently"
+      }
+    ]
+  },
+  {
+    "kanji": "万",
+    "meanings": [
+      "10,000",
+      "ten thousand"
+    ],
+    "on": [
+      "バン",
+      "マン"
+    ],
+    "kun": [
+      "よろず"
+    ],
+    "strokes": 3,
+    "heisig": "ten thousand",
+    "examples": [
+      {
+        "word": "万宝",
+        "reading": "ばんぽう",
+        "meaning": "many treasures"
+      },
+      {
+        "word": "万難",
+        "reading": "ばんなん",
+        "meaning": "many obstacles; innumerable difficulties"
+      },
+      {
+        "word": "万軍",
+        "reading": "ばんぐん",
+        "meaning": "hosts; all the armies"
+      }
+    ]
+  },
+  {
+    "kanji": "名",
+    "meanings": [
+      "distinguished",
+      "name",
+      "noted",
+      "reputation"
+    ],
+    "on": [
+      "ミョウ",
+      "メイ"
+    ],
+    "kun": [
+      "-な",
+      "な"
+    ],
+    "strokes": 6,
+    "heisig": "name",
+    "examples": [
+      {
+        "word": "名吟",
+        "reading": "めいぎん",
+        "meaning": "famous poem"
+      },
+      {
+        "word": "霊名",
+        "reading": "れいめい",
+        "meaning": "Christian name; baptismal name"
+      },
+      {
+        "word": "盛名",
+        "reading": "せいめい",
+        "meaning": "reputation"
+      }
+    ]
+  },
+  {
+    "kanji": "木",
+    "meanings": [
+      "tree",
+      "wood"
+    ],
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "き",
+      "こ-"
+    ],
+    "strokes": 4,
+    "heisig": "tree",
+    "examples": [
+      {
+        "word": "木菟",
+        "reading": "みみずく",
+        "meaning": "horned owl"
+      },
+      {
+        "word": "木鼠",
+        "reading": "きねずみ",
+        "meaning": "squirrel"
+      },
+      {
+        "word": "木剣",
+        "reading": "ぼっけん",
+        "meaning": "bokken; wooden sword"
+      }
+    ]
+  },
+  {
+    "kanji": "友",
+    "meanings": [
+      "friend"
+    ],
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "とも"
+    ],
+    "strokes": 4,
+    "heisig": "friend",
+    "examples": [
+      {
+        "word": "心友",
+        "reading": "しんゆう",
+        "meaning": "bosom friend; intimate friend"
+      },
+      {
+        "word": "党友",
+        "reading": "とうゆう",
+        "meaning": "fellow party member"
+      },
+      {
+        "word": "友情",
+        "reading": "ゆうじょう",
+        "meaning": "friendship; fellowship"
+      }
+    ]
+  },
+  {
+    "kanji": "来",
+    "meanings": [
+      "become",
+      "cause",
+      "come",
+      "due",
+      "next"
+    ],
+    "on": [
+      "タイ",
+      "ライ"
+    ],
+    "kun": [
+      "き",
+      "き.たす",
+      "き.たる",
+      "きた.す",
+      "きた.る",
+      "く.る",
+      "こ"
+    ],
+    "strokes": 7,
+    "heisig": "come",
+    "examples": [
+      {
+        "word": "来牒",
+        "reading": "らいちょう",
+        "meaning": "correspondence; received letter or note"
+      },
+      {
+        "word": "来旨",
+        "reading": "らいし",
+        "meaning": "gist of what someone else said"
+      },
+      {
+        "word": "来任",
+        "reading": "らいにん",
+        "meaning": "arrival at one's post"
+      }
+    ]
+  },
+  {
+    "kanji": "六",
+    "meanings": [
+      "six"
+    ],
+    "on": [
+      "リク",
+      "ロク"
+    ],
+    "kun": [
+      "む",
+      "む.つ",
+      "むい",
+      "むっ.つ"
+    ],
+    "strokes": 4,
+    "heisig": "six",
+    "examples": [
+      {
+        "word": "六曜",
+        "reading": "ろくよう",
+        "meaning": "see: ; see: "
+      },
+      {
+        "word": "双六",
+        "reading": "すごろく",
+        "meaning": "see: ; 絵双六"
+      },
+      {
+        "word": "六白",
+        "reading": "ろっぱく",
+        "meaning": "see: ; 九星"
+      }
+    ]
+  },
+  {
+    "kanji": "話",
+    "meanings": [
+      "tale",
+      "talk"
+    ],
+    "on": [
+      "ワ"
+    ],
+    "kun": [
+      "はな.す",
+      "はなし"
+    ],
+    "strokes": 13,
+    "heisig": "tale",
+    "examples": [
+      {
+        "word": "神話",
+        "reading": "しんわ",
+        "meaning": "myth; mythology"
+      },
+      {
+        "word": "寓話",
+        "reading": "ぐうわ",
+        "meaning": "fable; allegory"
+      },
+      {
+        "word": "禅話",
+        "reading": "ぜんわ",
+        "meaning": "Zen talk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kanji of the Day</title>
+    <meta
+      name="description"
+      content="Learn a new JLPT kanji every day with readings, meanings, and example words."
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js"></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"
+    ></script>
+  </head>
+  <body>
+    <div class="container" x-data="kanjiApp()" x-init="init()">
+      <header>
+        <h1>Kanji of the Day</h1>
+      </header>
+
+      <!-- JLPT Level Selector -->
+      <nav class="level-selector">
+        <template x-for="l in ['n5', 'n4', 'n3', 'n2', 'n1']" :key="l">
+          <button
+            :class="{ active: level === l }"
+            @click="loadLevel(l)"
+            x-text="l.toUpperCase()"
+          ></button>
+        </template>
+      </nav>
+
+      <!-- Date Navigation -->
+      <div class="date-nav">
+        <button class="nav-btn" @click="prevDay()" :disabled="isStart">
+          &larr;
+        </button>
+        <div class="date-display">
+          <button class="date-btn" @click="toggleCalendar()" x-text="displayDate"></button>
+          <span class="day-label" x-text="'Day ' + dayNumber"></span>
+        </div>
+        <button class="nav-btn" @click="nextDay()" :disabled="isToday">
+          &rarr;
+        </button>
+        <button class="today-btn" @click="goToday()" :disabled="isToday">
+          Today
+        </button>
+      </div>
+
+      <!-- Custom Calendar Dropdown -->
+      <div class="calendar-overlay" x-show="calendarOpen" @click.self="closeCalendar()" x-transition.opacity>
+        <div class="calendar" @click.stop>
+          <div class="calendar-header">
+            <button class="calendar-nav" @click="calendarPrevMonth()" :disabled="!canCalendarPrev">&larr;</button>
+            <span class="calendar-month" x-text="calendarMonthLabel"></span>
+            <button class="calendar-nav" @click="calendarNextMonth()" :disabled="!canCalendarNext">&rarr;</button>
+          </div>
+          <div class="calendar-weekdays">
+            <template x-for="d in ['Su','Mo','Tu','We','Th','Fr','Sa']" :key="d">
+              <span x-text="d"></span>
+            </template>
+          </div>
+          <div class="calendar-grid">
+            <template x-for="(cell, i) in calendarDays" :key="i">
+              <button
+                class="calendar-day"
+                :class="{
+                  empty: !cell.day,
+                  disabled: cell.disabled,
+                  today: cell.isToday,
+                  selected: cell.isSelected
+                }"
+                :disabled="!cell.day || cell.disabled"
+                @click="selectCalendarDay(cell)"
+                x-text="cell.day || ''"
+              ></button>
+            </template>
+          </div>
+        </div>
+      </div>
+
+      <!-- Loading state -->
+      <div x-show="loading" class="loading">Loading...</div>
+
+      <!-- Kanji Card -->
+      <template x-if="currentKanji && !loading">
+        <main class="kanji-card">
+          <a class="kanji-character" :href="'https://jisho.org/search/' + encodeURIComponent(currentKanji.kanji) + '%23kanji'" target="_blank" rel="noopener" x-text="currentKanji.kanji"></a>
+
+          <div class="meanings" x-text="currentKanji.meanings.join(', ')"></div>
+
+          <div class="readings">
+            <div class="reading-group" x-show="currentKanji.on.length > 0">
+              <span class="label">On'yomi</span>
+              <span
+                class="reading-value"
+                x-text="currentKanji.on.join('、')"
+              ></span>
+            </div>
+            <div class="reading-group" x-show="currentKanji.kun.length > 0">
+              <span class="label">Kun'yomi</span>
+              <span
+                class="reading-value"
+                x-text="currentKanji.kun.join('、')"
+              ></span>
+            </div>
+          </div>
+
+          <div class="details">
+            <span class="detail"
+              >Strokes: <strong x-text="currentKanji.strokes"></strong
+            ></span>
+            <span class="detail" x-show="currentKanji.heisig">
+              Heisig: <em x-text="currentKanji.heisig"></em>
+            </span>
+          </div>
+
+          <div class="examples" x-show="currentKanji.examples?.length > 0">
+            <h3>Example Words</h3>
+            <template x-for="ex in currentKanji.examples" :key="ex.word">
+              <div class="example">
+                <span class="example-word" x-text="ex.word"></span>
+                <span class="example-reading" x-text="ex.reading"></span>
+                <span class="example-meaning" x-text="ex.meaning"></span>
+              </div>
+            </template>
+          </div>
+        </main>
+      </template>
+
+      <footer>
+        <p>
+          JLPT Kanji data from
+          <a href="https://kanjiapi.dev">kanjiapi.dev</a> &amp;
+          <a href="https://www.edrdg.org/wiki/index.php/KANJIDIC_Project"
+            >KANJIDIC</a
+          >
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

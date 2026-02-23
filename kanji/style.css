@@ -1,0 +1,529 @@
+/* Kanji of the Day - Styles matching lurraca.com */
+
+/* Reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Base */
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  background: #fff;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 20px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  color: #333;
+  letter-spacing: 1px;
+}
+
+/* Level Selector */
+.level-selector {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.level-selector button {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 6px 16px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background: #fff;
+  color: #777;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.level-selector button:hover {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.level-selector button.active {
+  background: #4183c4;
+  border-color: #4183c4;
+  color: #fff;
+}
+
+/* Date Navigation */
+.date-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.nav-btn {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  width: 36px;
+  height: 36px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.nav-btn:hover:not(:disabled) {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.nav-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.date-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.date-btn {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px 12px;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.date-btn:hover {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.day-label {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  color: #777;
+}
+
+.today-btn {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.today-btn:hover:not(:disabled) {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.today-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Loading */
+.loading {
+  text-align: center;
+  color: #777;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  padding: 40px 0;
+}
+
+/* Kanji Card */
+.kanji-card {
+  text-align: center;
+}
+
+.kanji-character {
+  font-size: 8rem;
+  line-height: 1.1;
+  color: #111;
+  margin-bottom: 8px;
+  text-decoration: none;
+  display: block;
+}
+
+.kanji-character:hover {
+  color: #4183c4;
+}
+
+.meanings {
+  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 24px;
+  text-transform: capitalize;
+}
+
+/* Readings */
+.readings {
+  margin-bottom: 20px;
+}
+
+.reading-group {
+  margin-bottom: 8px;
+}
+
+.reading-group .label {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #777;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.reading-value {
+  font-size: 20px;
+  color: #333;
+}
+
+/* Details */
+.details {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.details strong {
+  color: #333;
+}
+
+.details em {
+  font-style: italic;
+  color: #555;
+}
+
+/* Examples */
+.examples {
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.examples h3 {
+  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #777;
+  margin-bottom: 12px;
+}
+
+.example {
+  padding: 8px 0;
+  border-bottom: 1px solid #f5f5f5;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.example:last-child {
+  border-bottom: none;
+}
+
+.example-word {
+  font-size: 20px;
+  color: #111;
+}
+
+.example-reading {
+  font-size: 14px;
+  color: #4183c4;
+}
+
+.example-meaning {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #777;
+  flex-basis: 100%;
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  padding: 16px 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+}
+
+footer p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  color: #999;
+}
+
+footer a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Calendar */
+.calendar-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.calendar {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+  padding: 16px;
+  width: 300px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.calendar-month {
+  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #333;
+}
+
+.calendar-nav {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.calendar-nav:hover:not(:disabled) {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.calendar-nav:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.calendar-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.calendar-weekdays span {
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+  text-transform: uppercase;
+  padding: 4px 0;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.calendar-day {
+  width: 100%;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.calendar-day:hover:not(:disabled):not(.empty) {
+  background: #f0f4f8;
+}
+
+.calendar-day.empty {
+  cursor: default;
+}
+
+.calendar-day.disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+.calendar-day.today {
+  font-weight: bold;
+  color: #4183c4;
+}
+
+.calendar-day.selected {
+  background: #4183c4;
+  color: #fff;
+  font-weight: bold;
+}
+
+.calendar-day.selected.today {
+  color: #fff;
+}
+
+/* Responsive - Desktop */
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+    padding: 40px 32px;
+  }
+
+  header h1 {
+    font-size: 32px;
+    margin-bottom: 24px;
+  }
+
+  .level-selector {
+    margin-bottom: 24px;
+    gap: 12px;
+  }
+
+  .date-nav {
+    margin-bottom: 32px;
+    gap: 12px;
+  }
+
+  .kanji-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 0 40px;
+    text-align: left;
+    align-items: start;
+  }
+
+  .kanji-character {
+    font-size: 12rem;
+    grid-column: 1;
+    grid-row: 1 / 3;
+    text-align: center;
+    align-self: center;
+  }
+
+  .meanings {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 28px;
+    margin-bottom: 16px;
+    padding-top: 16px;
+  }
+
+  .readings {
+    grid-column: 2;
+    grid-row: 2;
+    margin-bottom: 16px;
+  }
+
+  .details {
+    grid-column: 2;
+    grid-row: 3;
+    justify-content: flex-start;
+    margin-bottom: 0;
+  }
+
+  .examples {
+    grid-column: 1 / -1;
+    grid-row: 4;
+    margin-top: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 860px;
+    padding: 48px 40px;
+  }
+
+  .kanji-card {
+    gap: 0 60px;
+  }
+
+  .kanji-character {
+    font-size: 14rem;
+  }
+
+  .meanings {
+    font-size: 32px;
+  }
+
+  .reading-value {
+    font-size: 22px;
+  }
+}

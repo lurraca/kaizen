@@ -1,0 +1,5819 @@
+[
+  {
+    "kanji": "悪",
+    "meanings": [
+      "bad",
+      "evil",
+      "false",
+      "rascal",
+      "vice",
+      "wrong"
+    ],
+    "on": [
+      "アク",
+      "オ"
+    ],
+    "kun": [
+      "-にく.い",
+      "あ.し",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.い",
+      "にく.む",
+      "わる-",
+      "わる.い"
+    ],
+    "strokes": 11,
+    "heisig": "bad",
+    "examples": [
+      {
+        "word": "悪さ",
+        "reading": "わるさ",
+        "meaning": "badness; mean mischief"
+      },
+      {
+        "word": "巨悪",
+        "reading": "きょあく",
+        "meaning": "great evil"
+      },
+      {
+        "word": "悪戯",
+        "reading": "いたずら",
+        "meaning": "mischief; prank"
+      }
+    ]
+  },
+  {
+    "kanji": "安",
+    "meanings": [
+      "cheap",
+      "contented",
+      "low",
+      "peaceful",
+      "quiet",
+      "relax",
+      "rested"
+    ],
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "やす",
+      "やす.い",
+      "やす.まる",
+      "やす.らか"
+    ],
+    "strokes": 6,
+    "heisig": "relax",
+    "examples": [
+      {
+        "word": "安否",
+        "reading": "あんぴ",
+        "meaning": "safety; welfare"
+      },
+      {
+        "word": "液安",
+        "reading": "えきあん",
+        "meaning": "liquid ammonia"
+      },
+      {
+        "word": "安宿",
+        "reading": "やすやど",
+        "meaning": "cheap hotel"
+      }
+    ]
+  },
+  {
+    "kanji": "以",
+    "meanings": [
+      "because",
+      "by means of",
+      "compared with",
+      "in view of"
+    ],
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "もっ.て"
+    ],
+    "strokes": 5,
+    "heisig": "by means of",
+    "examples": [
+      {
+        "word": "所以",
+        "reading": "ゆえん",
+        "meaning": "reason; grounds"
+      },
+      {
+        "word": "以下",
+        "reading": "いか",
+        "meaning": "antonym: ; 以上"
+      },
+      {
+        "word": "以後",
+        "reading": "いご",
+        "meaning": "after this; from now on"
+      }
+    ]
+  },
+  {
+    "kanji": "意",
+    "meanings": [
+      "care",
+      "desire",
+      "heart",
+      "idea",
+      "liking",
+      "mind",
+      "taste",
+      "thought"
+    ],
+    "on": [
+      "イ"
+    ],
+    "kun": [],
+    "strokes": 13,
+    "heisig": "idea",
+    "examples": [
+      {
+        "word": "余意",
+        "reading": "よい",
+        "meaning": "implied meaning"
+      },
+      {
+        "word": "意訳",
+        "reading": "いやく",
+        "meaning": "free translation; liberal translation"
+      },
+      {
+        "word": "私意",
+        "reading": "しい",
+        "meaning": "personal opinion"
+      }
+    ]
+  },
+  {
+    "kanji": "医",
+    "meanings": [
+      "doctor",
+      "medicine"
+    ],
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "い.する",
+      "い.やす",
+      "くすし"
+    ],
+    "strokes": 7,
+    "heisig": "doctor",
+    "examples": [
+      {
+        "word": "獣医",
+        "reading": "じゅうい",
+        "meaning": "veterinarian; veterinary surgeon"
+      },
+      {
+        "word": "医籍",
+        "reading": "いせき",
+        "meaning": "register of physicians"
+      },
+      {
+        "word": "医界",
+        "reading": "いかい",
+        "meaning": "medical world"
+      }
+    ]
+  },
+  {
+    "kanji": "員",
+    "meanings": [
+      "employee",
+      "member",
+      "number",
+      "the one in charge"
+    ],
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "strokes": 10,
+    "heisig": "employee",
+    "examples": [
+      {
+        "word": "乗員",
+        "reading": "じょういん",
+        "meaning": "crew member; crewman"
+      },
+      {
+        "word": "客員",
+        "reading": "きゃくいん",
+        "meaning": "guest member; associate member"
+      },
+      {
+        "word": "課員",
+        "reading": "かいん",
+        "meaning": "section staff"
+      }
+    ]
+  },
+  {
+    "kanji": "飲",
+    "meanings": [
+      "drink",
+      "smoke",
+      "take"
+    ],
+    "on": [
+      "イン",
+      "オン"
+    ],
+    "kun": [
+      "-の.み",
+      "の.む"
+    ],
+    "strokes": 12,
+    "heisig": "drink",
+    "examples": [
+      {
+        "word": "飲茶",
+        "reading": "ヤムチャ",
+        "meaning": "yum cha; Chinese"
+      },
+      {
+        "word": "飲尿",
+        "reading": "いんにょう",
+        "meaning": "urophagia; uriposia"
+      },
+      {
+        "word": "多飲",
+        "reading": "たいん",
+        "meaning": "polydipsia"
+      }
+    ]
+  },
+  {
+    "kanji": "院",
+    "meanings": [
+      "Inst.",
+      "institution",
+      "mansion",
+      "school",
+      "temple"
+    ],
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "strokes": 10,
+    "heisig": "Inst.",
+    "examples": [
+      {
+        "word": "院議",
+        "reading": "いんぎ",
+        "meaning": "legislative decision"
+      },
+      {
+        "word": "法院",
+        "reading": "ほういん",
+        "meaning": "court"
+      },
+      {
+        "word": "登院",
+        "reading": "とういん",
+        "meaning": "attendance at the House; attending a session of the Diet"
+      }
+    ]
+  },
+  {
+    "kanji": "運",
+    "meanings": [
+      "advance",
+      "carry",
+      "destiny",
+      "fate",
+      "lot",
+      "luck",
+      "progress",
+      "transport"
+    ],
+    "on": [
+      "ウン"
+    ],
+    "kun": [
+      "はこ.ぶ"
+    ],
+    "strokes": 12,
+    "heisig": "carry",
+    "examples": [
+      {
+        "word": "商運",
+        "reading": "しょううん",
+        "meaning": "luck in business; luck in sales"
+      },
+      {
+        "word": "文運",
+        "reading": "ぶんうん",
+        "meaning": "cultural progress; advance of the arts"
+      },
+      {
+        "word": "空運",
+        "reading": "くううん",
+        "meaning": "air transportation; air transport"
+      }
+    ]
+  },
+  {
+    "kanji": "映",
+    "meanings": [
+      "projection",
+      "reflect",
+      "reflection"
+    ],
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "-ば.え",
+      "うつ.す",
+      "うつ.る",
+      "は.える"
+    ],
+    "strokes": 9,
+    "heisig": "reflect",
+    "examples": [
+      {
+        "word": "映倫",
+        "reading": "えいりん",
+        "meaning": "Eirin; Film Classification and Rating Organization"
+      },
+      {
+        "word": "映配",
+        "reading": "えいはい",
+        "meaning": "film distributing company"
+      },
+      {
+        "word": "放映",
+        "reading": "ほうえい",
+        "meaning": "televising; broadcasting"
+      }
+    ]
+  },
+  {
+    "kanji": "英",
+    "meanings": [
+      "England",
+      "English",
+      "calyx",
+      "hero",
+      "outstanding"
+    ],
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "はなぶさ"
+    ],
+    "strokes": 8,
+    "heisig": "England",
+    "examples": [
+      {
+        "word": "独英",
+        "reading": "どくえい",
+        "meaning": "Germany and the United Kingdom; German-British"
+      },
+      {
+        "word": "駐英",
+        "reading": "ちゅうえい",
+        "meaning": "stationed in the United Kingdom; resident in the United Kingdom"
+      },
+      {
+        "word": "和英",
+        "reading": "わえい",
+        "meaning": "Japanese-English"
+      }
+    ]
+  },
+  {
+    "kanji": "駅",
+    "meanings": [
+      "station"
+    ],
+    "on": [
+      "エキ"
+    ],
+    "kun": [],
+    "strokes": 14,
+    "heisig": "station",
+    "examples": [
+      {
+        "word": "駅逓",
+        "reading": "えきてい",
+        "meaning": "delivery of packages; postal service"
+      },
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "meaning": "in front of a station"
+      },
+      {
+        "word": "廃駅",
+        "reading": "はいえき",
+        "meaning": "abandoned station; closed station"
+      }
+    ]
+  },
+  {
+    "kanji": "屋",
+    "meanings": [
+      "dealer",
+      "house",
+      "roof",
+      "seller",
+      "shop"
+    ],
+    "on": [
+      "オク"
+    ],
+    "kun": [
+      "や"
+    ],
+    "strokes": 9,
+    "heisig": "roof",
+    "examples": [
+      {
+        "word": "問屋",
+        "reading": "とんや",
+        "meaning": "wholesale store; wholesale dealer"
+      },
+      {
+        "word": "東屋",
+        "reading": "あずまや",
+        "meaning": "arbor; arbour"
+      },
+      {
+        "word": "屋前",
+        "reading": "やど",
+        "meaning": "outside near the door to one's home"
+      }
+    ]
+  },
+  {
+    "kanji": "音",
+    "meanings": [
+      "noise",
+      "sound"
+    ],
+    "on": [
+      "-ノン",
+      "イン",
+      "オン"
+    ],
+    "kun": [
+      "おと",
+      "ね"
+    ],
+    "strokes": 9,
+    "heisig": "sound",
+    "examples": [
+      {
+        "word": "弦音",
+        "reading": "つるおと",
+        "meaning": "sound of vibrating bowstring"
+      },
+      {
+        "word": "嬰音",
+        "reading": "えいおん",
+        "meaning": "sharp (musical note)"
+      },
+      {
+        "word": "水音",
+        "reading": "みずおと",
+        "meaning": "sound of water"
+      }
+    ]
+  },
+  {
+    "kanji": "夏",
+    "meanings": [
+      "summer"
+    ],
+    "on": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kun": [
+      "なつ"
+    ],
+    "strokes": 10,
+    "heisig": "summer",
+    "examples": [
+      {
+        "word": "夏潮",
+        "reading": "なつしお",
+        "meaning": "summer tide; tide reflecting the summer sun"
+      },
+      {
+        "word": "夏霞",
+        "reading": "なつがすみ",
+        "meaning": "summer haze; summer mist"
+      },
+      {
+        "word": "夏服",
+        "reading": "なつふく",
+        "meaning": "summer clothes; summer wear"
+      }
+    ]
+  },
+  {
+    "kanji": "家",
+    "meanings": [
+      "expert",
+      "family",
+      "home",
+      "house",
+      "performer",
+      "professional"
+    ],
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "いえ",
+      "うち",
+      "や"
+    ],
+    "strokes": 10,
+    "heisig": "house",
+    "examples": [
+      {
+        "word": "家什",
+        "reading": "かじゅう",
+        "meaning": "furniture; fixtures"
+      },
+      {
+        "word": "家蠅",
+        "reading": "いえばえ",
+        "meaning": "housefly (Musca domestica); house fly"
+      },
+      {
+        "word": "千家",
+        "reading": "せんけ",
+        "meaning": "Senke school of tea ceremony"
+      }
+    ]
+  },
+  {
+    "kanji": "歌",
+    "meanings": [
+      "sing",
+      "song"
+    ],
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "うた",
+      "うた.う"
+    ],
+    "strokes": 14,
+    "heisig": "song",
+    "examples": [
+      {
+        "word": "諷歌",
+        "reading": "そえうた",
+        "meaning": "allegorical form (of waka); see: "
+      },
+      {
+        "word": "霊歌",
+        "reading": "れいか",
+        "meaning": "spiritual (religious song); see: "
+      },
+      {
+        "word": "社歌",
+        "reading": "しゃか",
+        "meaning": "company song"
+      }
+    ]
+  },
+  {
+    "kanji": "花",
+    "meanings": [
+      "flower"
+    ],
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "はな"
+    ],
+    "strokes": 7,
+    "heisig": "flower",
+    "examples": [
+      {
+        "word": "野花",
+        "reading": "のばな",
+        "meaning": "wild flower"
+      },
+      {
+        "word": "花実",
+        "reading": "はなみ",
+        "meaning": "flowers and fruit; blossom and fruit"
+      },
+      {
+        "word": "花鏡",
+        "reading": "かきょう",
+        "meaning": "Kakyō"
+      }
+    ]
+  },
+  {
+    "kanji": "画",
+    "meanings": [
+      "brush-stroke",
+      "picture"
+    ],
+    "on": [
+      "エ",
+      "カイ",
+      "カク",
+      "ガ"
+    ],
+    "kun": [
+      "えが.く",
+      "かぎ.る",
+      "かく.する",
+      "はか.る",
+      "はかりごと"
+    ],
+    "strokes": 8,
+    "heisig": "brush stroke",
+    "examples": [
+      {
+        "word": "画聖",
+        "reading": "がせい",
+        "meaning": "master painter; great artist"
+      },
+      {
+        "word": "画境",
+        "reading": "がきょう",
+        "meaning": "feeling of a painting; atmosphere of a painting"
+      },
+      {
+        "word": "画す",
+        "reading": "かくす",
+        "meaning": "to draw (a line); see: "
+      }
+    ]
+  },
+  {
+    "kanji": "会",
+    "meanings": [
+      "association",
+      "interview",
+      "join",
+      "meet",
+      "meeting",
+      "party"
+    ],
+    "on": [
+      "エ",
+      "カイ"
+    ],
+    "kun": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "strokes": 6,
+    "heisig": "meeting",
+    "examples": [
+      {
+        "word": "例会",
+        "reading": "れいかい",
+        "meaning": "regular meeting"
+      },
+      {
+        "word": "会費",
+        "reading": "かいひ",
+        "meaning": "membership fee"
+      },
+      {
+        "word": "社会",
+        "reading": "しゃかい",
+        "meaning": "society; public"
+      }
+    ]
+  },
+  {
+    "kanji": "海",
+    "meanings": [
+      "ocean",
+      "sea"
+    ],
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "うみ"
+    ],
+    "strokes": 9,
+    "heisig": "sea",
+    "examples": [
+      {
+        "word": "公海",
+        "reading": "こうかい",
+        "meaning": "high seas; international waters"
+      },
+      {
+        "word": "海原",
+        "reading": "うなばら",
+        "meaning": "ocean; sea"
+      },
+      {
+        "word": "滄海",
+        "reading": "そうかい",
+        "meaning": "the blue sea; blue waters"
+      }
+    ]
+  },
+  {
+    "kanji": "界",
+    "meanings": [
+      "boundary",
+      "world"
+    ],
+    "on": [
+      "カイ"
+    ],
+    "kun": [],
+    "strokes": 9,
+    "heisig": "world",
+    "examples": [
+      {
+        "word": "顕界",
+        "reading": "げんかい",
+        "meaning": "this world; present world (as opposed to the realm of the dead)"
+      },
+      {
+        "word": "視界",
+        "reading": "しかい",
+        "meaning": "field of vision; visibility"
+      },
+      {
+        "word": "医界",
+        "reading": "いかい",
+        "meaning": "medical world"
+      }
+    ]
+  },
+  {
+    "kanji": "開",
+    "meanings": [
+      "open",
+      "unfold",
+      "unseal"
+    ],
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "-びら.き",
+      "あ.く",
+      "あ.ける",
+      "ひら.き",
+      "ひら.く",
+      "ひら.ける"
+    ],
+    "strokes": 12,
+    "heisig": "open",
+    "examples": [
+      {
+        "word": "開門",
+        "reading": "かいもん",
+        "meaning": "opening gate"
+      },
+      {
+        "word": "開法",
+        "reading": "かいほう",
+        "meaning": "extraction of roots; evolution"
+      },
+      {
+        "word": "開渠",
+        "reading": "かいきょ",
+        "meaning": "open ditch; open channel"
+      }
+    ]
+  },
+  {
+    "kanji": "楽",
+    "meanings": [
+      "comfort",
+      "ease",
+      "music"
+    ],
+    "on": [
+      "ガク",
+      "ゴウ",
+      "ラク"
+    ],
+    "kun": [
+      "この.む",
+      "たの.しい",
+      "たの.しむ"
+    ],
+    "strokes": 13,
+    "heisig": "music",
+    "examples": [
+      {
+        "word": "奏楽",
+        "reading": "そうがく",
+        "meaning": "musical performance"
+      },
+      {
+        "word": "古楽",
+        "reading": "こがく",
+        "meaning": "ancient (early) music"
+      },
+      {
+        "word": "洋楽",
+        "reading": "ようがく",
+        "meaning": "Western music; European music"
+      }
+    ]
+  },
+  {
+    "kanji": "漢",
+    "meanings": [
+      "China",
+      "Sino-"
+    ],
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "strokes": 13,
+    "heisig": "Sino-",
+    "examples": [
+      {
+        "word": "漢詩",
+        "reading": "かんし",
+        "meaning": "Chinese poem; Chinese poetry"
+      },
+      {
+        "word": "巨漢",
+        "reading": "きょかん",
+        "meaning": "giant"
+      },
+      {
+        "word": "漢書",
+        "reading": "かんしょ",
+        "meaning": "Chinese book; book written in Chinese"
+      }
+    ]
+  },
+  {
+    "kanji": "館",
+    "meanings": [
+      "building",
+      "large building",
+      "mansion",
+      "palace"
+    ],
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "たて",
+      "やかた"
+    ],
+    "strokes": 16,
+    "heisig": "Bldg.",
+    "examples": [
+      {
+        "word": "居館",
+        "reading": "きょかん",
+        "meaning": "residence; mansion"
+      },
+      {
+        "word": "会館",
+        "reading": "かいかん",
+        "meaning": "meeting hall; assembly hall"
+      },
+      {
+        "word": "娼館",
+        "reading": "しょうかん",
+        "meaning": "brothel"
+      }
+    ]
+  },
+  {
+    "kanji": "帰",
+    "meanings": [
+      "arrive at",
+      "homecoming",
+      "lead to",
+      "result in"
+    ],
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "おく.る",
+      "かえ.す",
+      "かえ.る",
+      "とつ.ぐ"
+    ],
+    "strokes": 10,
+    "heisig": "homecoming",
+    "examples": [
+      {
+        "word": "帰天",
+        "reading": "きてん",
+        "meaning": "death of a Christian (in Catholicism); see: "
+      },
+      {
+        "word": "帰趨",
+        "reading": "きすう",
+        "meaning": "outcome (of a course of events); consequence"
+      },
+      {
+        "word": "帰蔵",
+        "reading": "きぞう",
+        "meaning": "Gui Cang (Yin-period method of Chinese divination)"
+      }
+    ]
+  },
+  {
+    "kanji": "起",
+    "meanings": [
+      "get up",
+      "rouse",
+      "wake up"
+    ],
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "お.きる",
+      "お.こす",
+      "お.こる",
+      "おこ.す",
+      "た.つ"
+    ],
+    "strokes": 10,
+    "heisig": "rouse",
+    "examples": [
+      {
+        "word": "絶起",
+        "reading": "ぜっき",
+        "meaning": "oversleeping and hence feeling despair; from 絶望の起床"
+      },
+      {
+        "word": "起訴",
+        "reading": "きそ",
+        "meaning": "prosecution; indictment"
+      },
+      {
+        "word": "興起",
+        "reading": "こうき",
+        "meaning": "rise; ascendency"
+      }
+    ]
+  },
+  {
+    "kanji": "急",
+    "meanings": [
+      "emergency",
+      "hurry",
+      "steep",
+      "sudden"
+    ],
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "いそ.ぎ",
+      "いそ.ぐ",
+      "せ.く"
+    ],
+    "strokes": 9,
+    "heisig": "hurry",
+    "examples": [
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "to hurry; to rush"
+      },
+      {
+        "word": "急流",
+        "reading": "きゅうりゅう",
+        "meaning": "swift current; rapids"
+      },
+      {
+        "word": "危急",
+        "reading": "ききゅう",
+        "meaning": "emergency; crisis"
+      }
+    ]
+  },
+  {
+    "kanji": "究",
+    "meanings": [
+      "research",
+      "study"
+    ],
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "きわ.める"
+    ],
+    "strokes": 7,
+    "heisig": "research",
+    "examples": [
+      {
+        "word": "究極",
+        "reading": "きゅうきょく",
+        "meaning": "ultimate; final"
+      },
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research; study"
+      },
+      {
+        "word": "学究",
+        "reading": "がっきゅう",
+        "meaning": "scholar; student"
+      }
+    ]
+  },
+  {
+    "kanji": "牛",
+    "meanings": [
+      "cow"
+    ],
+    "on": [
+      "ギュウ"
+    ],
+    "kun": [
+      "うし"
+    ],
+    "strokes": 4,
+    "heisig": "cow",
+    "examples": [
+      {
+        "word": "牛痘",
+        "reading": "ぎゅうとう",
+        "meaning": "cowpox; vaccinia"
+      },
+      {
+        "word": "牛頭",
+        "reading": "ごず",
+        "meaning": "ox-headed demon (in hell); see: "
+      },
+      {
+        "word": "犠牛",
+        "reading": "ぎぎゅう",
+        "meaning": "sacrificial bullock"
+      }
+    ]
+  },
+  {
+    "kanji": "去",
+    "meanings": [
+      "divorce",
+      "elapse",
+      "eliminate",
+      "gone",
+      "leave",
+      "past",
+      "quit"
+    ],
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "-さ.る",
+      "さ.る"
+    ],
+    "strokes": 5,
+    "heisig": "gone",
+    "examples": [
+      {
+        "word": "去校",
+        "reading": "きょこう",
+        "meaning": "leaving school (due to transfer)"
+      },
+      {
+        "word": "退去",
+        "reading": "たいきょ",
+        "meaning": "departure; leaving"
+      },
+      {
+        "word": "去来",
+        "reading": "きょらい",
+        "meaning": "coming and going"
+      }
+    ]
+  },
+  {
+    "kanji": "魚",
+    "meanings": [
+      "fish"
+    ],
+    "on": [
+      "ギョ"
+    ],
+    "kun": [
+      "-ざかな",
+      "うお",
+      "さかな"
+    ],
+    "strokes": 11,
+    "heisig": "fish",
+    "examples": [
+      {
+        "word": "鮑魚",
+        "reading": "ほうぎょ",
+        "meaning": "salt-cured fish"
+      },
+      {
+        "word": "魚粉",
+        "reading": "ぎょふん",
+        "meaning": "fish meal"
+      },
+      {
+        "word": "河魚",
+        "reading": "かぎょ",
+        "meaning": "river fish; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "京",
+    "meanings": [
+      "10**16",
+      "capital"
+    ],
+    "on": [
+      "キョウ",
+      "キン",
+      "ケイ"
+    ],
+    "kun": [
+      "みやこ"
+    ],
+    "strokes": 8,
+    "heisig": "capital",
+    "examples": [
+      {
+        "word": "京男",
+        "reading": "きょうおとこ",
+        "meaning": "Kyoto man; man from Kyoto"
+      },
+      {
+        "word": "京畿",
+        "reading": "けいき",
+        "meaning": "territories in the vicinity of Kyoto; see: "
+      },
+      {
+        "word": "京染",
+        "reading": "きょうぞめ",
+        "meaning": "Kyoto dyeing; dyed textiles from Kyoto"
+      }
+    ]
+  },
+  {
+    "kanji": "強",
+    "meanings": [
+      "strong"
+    ],
+    "on": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "こわ.い",
+      "し.いる",
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める"
+    ],
+    "strokes": 11,
+    "heisig": "strong",
+    "examples": [
+      {
+        "word": "強弁",
+        "reading": "きょうべん",
+        "meaning": "insisting (unreasonably); obstinate insistence"
+      },
+      {
+        "word": "強運",
+        "reading": "きょううん",
+        "meaning": "very good luck; excellent fortune"
+      },
+      {
+        "word": "強攻",
+        "reading": "きょうこう",
+        "meaning": "forced attack; risk-taking attack"
+      }
+    ]
+  },
+  {
+    "kanji": "教",
+    "meanings": [
+      "doctrine",
+      "faith",
+      "teach"
+    ],
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "strokes": 11,
+    "heisig": "teach",
+    "examples": [
+      {
+        "word": "蜜教",
+        "reading": "みつおしえ",
+        "meaning": "honeyguide (any bird of family Indicatoridae)"
+      },
+      {
+        "word": "教唆",
+        "reading": "きょうさ",
+        "meaning": "instigation"
+      },
+      {
+        "word": "教学",
+        "reading": "きょうがく",
+        "meaning": "education and learning"
+      }
+    ]
+  },
+  {
+    "kanji": "業",
+    "meanings": [
+      "arts",
+      "business",
+      "performance",
+      "vocation"
+    ],
+    "on": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "わざ"
+    ],
+    "strokes": 13,
+    "heisig": "business/profession",
+    "examples": [
+      {
+        "word": "業果",
+        "reading": "ごうか",
+        "meaning": "effects of karma"
+      },
+      {
+        "word": "紙業",
+        "reading": "しぎょう",
+        "meaning": "paper industry; see: "
+      },
+      {
+        "word": "別業",
+        "reading": "べつぎょう",
+        "meaning": "villa; another line of work"
+      }
+    ]
+  },
+  {
+    "kanji": "近",
+    "meanings": [
+      "akin",
+      "early",
+      "near",
+      "tantamount"
+    ],
+    "on": [
+      "キン",
+      "コン"
+    ],
+    "kun": [
+      "ちか.い"
+    ],
+    "strokes": 7,
+    "heisig": "near",
+    "examples": [
+      {
+        "word": "近業",
+        "reading": "きんぎょう",
+        "meaning": "recent work"
+      },
+      {
+        "word": "身近",
+        "reading": "みぢか",
+        "meaning": "near oneself; close to one"
+      },
+      {
+        "word": "近点",
+        "reading": "きんてん",
+        "meaning": "see: ; 遠点"
+      }
+    ]
+  },
+  {
+    "kanji": "銀",
+    "meanings": [
+      "silver"
+    ],
+    "on": [
+      "ギン"
+    ],
+    "kun": [
+      "しろがね"
+    ],
+    "strokes": 14,
+    "heisig": "silver",
+    "examples": [
+      {
+        "word": "邦銀",
+        "reading": "ほうぎん",
+        "meaning": "overseas Japanese bank"
+      },
+      {
+        "word": "純銀",
+        "reading": "じゅんぎん",
+        "meaning": "pure silver"
+      },
+      {
+        "word": "銀嶺",
+        "reading": "ぎんれい",
+        "meaning": "silvery, snow-capped mountain"
+      }
+    ]
+  },
+  {
+    "kanji": "空",
+    "meanings": [
+      "empty",
+      "sky",
+      "vacant",
+      "vacuum",
+      "void"
+    ],
+    "on": [
+      "クウ"
+    ],
+    "kun": [
+      "あ.き",
+      "あ.く",
+      "あ.ける",
+      "から",
+      "す.かす",
+      "す.く",
+      "そら",
+      "むな.しい"
+    ],
+    "strokes": 8,
+    "heisig": "empty",
+    "examples": [
+      {
+        "word": "空洞",
+        "reading": "くうどう",
+        "meaning": "cavity; hollow"
+      },
+      {
+        "word": "碧空",
+        "reading": "へきくう",
+        "meaning": "blue sky; azure sky"
+      },
+      {
+        "word": "空運",
+        "reading": "くううん",
+        "meaning": "air transportation; air transport"
+      }
+    ]
+  },
+  {
+    "kanji": "兄",
+    "meanings": [
+      "big brother",
+      "elder brother"
+    ],
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "あに"
+    ],
+    "strokes": 5,
+    "heisig": "elder brother",
+    "examples": [
+      {
+        "word": "兄上",
+        "reading": "あにうえ",
+        "meaning": "older brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings; brothers and sisters"
+      },
+      {
+        "word": "兄者",
+        "reading": "あにじゃ",
+        "meaning": "older brother; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "計",
+    "meanings": [
+      "measure",
+      "plan",
+      "plot",
+      "scheme"
+    ],
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "はか.らう",
+      "はか.る"
+    ],
+    "strokes": 9,
+    "heisig": "plot",
+    "examples": [
+      {
+        "word": "大計",
+        "reading": "たいけい",
+        "meaning": "grand-scale or long-range plan; farsighted policy"
+      },
+      {
+        "word": "良計",
+        "reading": "りょうけい",
+        "meaning": "good plan"
+      },
+      {
+        "word": "家計",
+        "reading": "かけい",
+        "meaning": "household economy; family finances"
+      }
+    ]
+  },
+  {
+    "kanji": "建",
+    "meanings": [
+      "build"
+    ],
+    "on": [
+      "ケン",
+      "コン"
+    ],
+    "kun": [
+      "-だ.て",
+      "た.つ",
+      "た.て",
+      "た.てる"
+    ],
+    "strokes": 9,
+    "heisig": "build",
+    "examples": [
+      {
+        "word": "卯建",
+        "reading": "うだつ",
+        "meaning": "short pillar set on a beam to support a ridgepole; see: "
+      },
+      {
+        "word": "再建",
+        "reading": "さいこん",
+        "meaning": "(temple or shrine) rebuilding"
+      },
+      {
+        "word": "建屋",
+        "reading": "たてや",
+        "meaning": "structure for housing heavy machinery"
+      }
+    ]
+  },
+  {
+    "kanji": "犬",
+    "meanings": [
+      "dog"
+    ],
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "strokes": 4,
+    "heisig": "dog",
+    "examples": [
+      {
+        "word": "忠犬",
+        "reading": "ちゅうけん",
+        "meaning": "faithful dog"
+      },
+      {
+        "word": "犬鷲",
+        "reading": "いぬわし",
+        "meaning": "golden eagle (Aquila chrysaetos)"
+      },
+      {
+        "word": "軍犬",
+        "reading": "ぐんけん",
+        "meaning": "war dog"
+      }
+    ]
+  },
+  {
+    "kanji": "研",
+    "meanings": [
+      "polish",
+      "sharpen",
+      "study of"
+    ],
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "と.ぐ"
+    ],
+    "strokes": 9,
+    "heisig": "polish",
+    "examples": [
+      {
+        "word": "薬研",
+        "reading": "やげん",
+        "meaning": "druggist's mortar"
+      },
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research; study"
+      },
+      {
+        "word": "研学",
+        "reading": "けんがく",
+        "meaning": "study"
+      }
+    ]
+  },
+  {
+    "kanji": "験",
+    "meanings": [
+      "effect",
+      "testing",
+      "verification"
+    ],
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "strokes": 18,
+    "heisig": "verification",
+    "examples": [
+      {
+        "word": "実験",
+        "reading": "じっけん",
+        "meaning": "experiment; experimentation"
+      },
+      {
+        "word": "体験",
+        "reading": "たいけん",
+        "meaning": "(practical) experience; personal experience"
+      },
+      {
+        "word": "被験",
+        "reading": "ひけん",
+        "meaning": "experimental; trial"
+      }
+    ]
+  },
+  {
+    "kanji": "元",
+    "meanings": [
+      "beginning",
+      "former time",
+      "origin"
+    ],
+    "on": [
+      "ガン",
+      "ゲン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "strokes": 4,
+    "heisig": "beginning",
+    "examples": [
+      {
+        "word": "身元",
+        "reading": "みもと",
+        "meaning": "(one's) identity; background"
+      },
+      {
+        "word": "元寇",
+        "reading": "げんこう",
+        "meaning": "Mongol invasions of Japan (1274, 1281)"
+      },
+      {
+        "word": "中元",
+        "reading": "ちゅうげん",
+        "meaning": "15th day of the 7th lunar month; (last day of) Bon lantern festival"
+      }
+    ]
+  },
+  {
+    "kanji": "言",
+    "meanings": [
+      "say",
+      "word"
+    ],
+    "on": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kun": [
+      "い.う",
+      "こと"
+    ],
+    "strokes": 7,
+    "heisig": "say",
+    "examples": [
+      {
+        "word": "言詞",
+        "reading": "げんし",
+        "meaning": "words; speech"
+      },
+      {
+        "word": "佳言",
+        "reading": "かげん",
+        "meaning": "good words; wise saying"
+      },
+      {
+        "word": "体言",
+        "reading": "たいげん",
+        "meaning": "indeclinable nominal (in Japanese)"
+      }
+    ]
+  },
+  {
+    "kanji": "古",
+    "meanings": [
+      "old"
+    ],
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "-ふる.す",
+      "ふる-",
+      "ふる.い"
+    ],
+    "strokes": 5,
+    "heisig": "old",
+    "examples": [
+      {
+        "word": "古楽",
+        "reading": "こがく",
+        "meaning": "ancient (early) music"
+      },
+      {
+        "word": "古狐",
+        "reading": "ふるきつね",
+        "meaning": "old fox; old-timer"
+      },
+      {
+        "word": "古字",
+        "reading": "こじ",
+        "meaning": "ancient writing"
+      }
+    ]
+  },
+  {
+    "kanji": "公",
+    "meanings": [
+      "governmental",
+      "official",
+      "prince",
+      "public"
+    ],
+    "on": [
+      "ク",
+      "コウ"
+    ],
+    "kun": [
+      "おおやけ"
+    ],
+    "strokes": 4,
+    "heisig": "public",
+    "examples": [
+      {
+        "word": "公証",
+        "reading": "こうしょう",
+        "meaning": "authentication; notarization"
+      },
+      {
+        "word": "公海",
+        "reading": "こうかい",
+        "meaning": "high seas; international waters"
+      },
+      {
+        "word": "主公",
+        "reading": "しゅこう",
+        "meaning": "master"
+      }
+    ]
+  },
+  {
+    "kanji": "口",
+    "meanings": [
+      "mouth"
+    ],
+    "on": [
+      "ク",
+      "コウ"
+    ],
+    "kun": [
+      "くち"
+    ],
+    "strokes": 3,
+    "heisig": "mouth",
+    "examples": [
+      {
+        "word": "秘口",
+        "reading": "ひこう",
+        "meaning": "vagina; pussy"
+      },
+      {
+        "word": "風口",
+        "reading": "かざぐち",
+        "meaning": "air intake"
+      },
+      {
+        "word": "口糧",
+        "reading": "こうりょう",
+        "meaning": "rations"
+      }
+    ]
+  },
+  {
+    "kanji": "工",
+    "meanings": [
+      "construction",
+      "craft",
+      "katakana e radical (no. 48)"
+    ],
+    "on": [
+      "ク",
+      "グ",
+      "コウ"
+    ],
+    "kun": [],
+    "strokes": 3,
+    "heisig": "craft",
+    "examples": [
+      {
+        "word": "工夫",
+        "reading": "くふう",
+        "meaning": "devising (a way); contriving"
+      },
+      {
+        "word": "図工",
+        "reading": "ずこう",
+        "meaning": "drawing and manual arts (school subject); arts and crafts"
+      },
+      {
+        "word": "工種",
+        "reading": "こうしゅ",
+        "meaning": "type of works; work item"
+      }
+    ]
+  },
+  {
+    "kanji": "広",
+    "meanings": [
+      "broad",
+      "spacious",
+      "wide"
+    ],
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ひろ.い",
+      "ひろ.がる",
+      "ひろ.げる",
+      "ひろ.まる",
+      "ひろ.める"
+    ],
+    "strokes": 5,
+    "heisig": "wide",
+    "examples": [
+      {
+        "word": "広縁",
+        "reading": "ひろえん",
+        "meaning": "broad veranda; spacious veranda"
+      },
+      {
+        "word": "広め",
+        "reading": "ひろめ",
+        "meaning": "fairly wide; quite large"
+      },
+      {
+        "word": "広大",
+        "reading": "こうだい",
+        "meaning": "vast; extensive"
+      }
+    ]
+  },
+  {
+    "kanji": "考",
+    "meanings": [
+      "consider",
+      "think over"
+    ],
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かんが.え",
+      "かんが.える"
+    ],
+    "strokes": 6,
+    "heisig": "consider",
+    "examples": [
+      {
+        "word": "論考",
+        "reading": "ろんこう",
+        "meaning": "study (of); discussion"
+      },
+      {
+        "word": "再考",
+        "reading": "さいこう",
+        "meaning": "reconsideration"
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "thinking; thought"
+      }
+    ]
+  },
+  {
+    "kanji": "黒",
+    "meanings": [
+      "black"
+    ],
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "くろ",
+      "くろ.い",
+      "くろ.ずむ"
+    ],
+    "strokes": 11,
+    "heisig": "black",
+    "examples": [
+      {
+        "word": "黒鶴",
+        "reading": "くろづる",
+        "meaning": "common crane (Grus grus)"
+      },
+      {
+        "word": "黒変",
+        "reading": "こくへん",
+        "meaning": "blackening; going black"
+      },
+      {
+        "word": "黒蟻",
+        "reading": "くろあり",
+        "meaning": "black ant"
+      }
+    ]
+  },
+  {
+    "kanji": "作",
+    "meanings": [
+      "build",
+      "make",
+      "prepare",
+      "production"
+    ],
+    "on": [
+      "サ",
+      "サク"
+    ],
+    "kun": [
+      "-づく.り",
+      "つく.り",
+      "つく.る"
+    ],
+    "strokes": 7,
+    "heisig": "make",
+    "examples": [
+      {
+        "word": "転作",
+        "reading": "てんさく",
+        "meaning": "crop diversification; crop rotation"
+      },
+      {
+        "word": "労作",
+        "reading": "ろうさく",
+        "meaning": "toil; labor"
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "piece; production"
+      }
+    ]
+  },
+  {
+    "kanji": "仕",
+    "meanings": [
+      "attend",
+      "doing",
+      "official",
+      "serve"
+    ],
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "つか.える"
+    ],
+    "strokes": 5,
+    "heisig": "attend",
+    "examples": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work; job"
+      },
+      {
+        "word": "仕儀",
+        "reading": "しぎ",
+        "meaning": "situation; developments"
+      },
+      {
+        "word": "仕官",
+        "reading": "しかん",
+        "meaning": "government service; entering government service"
+      }
+    ]
+  },
+  {
+    "kanji": "使",
+    "meanings": [
+      "ambassador",
+      "cause",
+      "envoy",
+      "messenger",
+      "order",
+      "send on a mission",
+      "use"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "-つか.い",
+      "-づか.い",
+      "つか.い",
+      "つか.う"
+    ],
+    "strokes": 8,
+    "heisig": "use",
+    "examples": [
+      {
+        "word": "使役",
+        "reading": "しえき",
+        "meaning": "setting (someone) to work; employment"
+      },
+      {
+        "word": "虐使",
+        "reading": "ぎゃくし",
+        "meaning": "driving someone too hard"
+      },
+      {
+        "word": "正使",
+        "reading": "せいし",
+        "meaning": "senior envoy; chief delegate"
+      }
+    ]
+  },
+  {
+    "kanji": "始",
+    "meanings": [
+      "begin",
+      "commence"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "-はじ.める",
+      "はじ.まる",
+      "はじ.める"
+    ],
+    "strokes": 8,
+    "heisig": "commence",
+    "examples": [
+      {
+        "word": "始終",
+        "reading": "しじゅう",
+        "meaning": "continuously; from beginning to end"
+      },
+      {
+        "word": "元始",
+        "reading": "げんし",
+        "meaning": "origin"
+      },
+      {
+        "word": "始期",
+        "reading": "しき",
+        "meaning": "beginning period; initial term"
+      }
+    ]
+  },
+  {
+    "kanji": "姉",
+    "meanings": [
+      "elder sister"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "あね",
+      "はは"
+    ],
+    "strokes": 8,
+    "heisig": "elder sister",
+    "examples": [
+      {
+        "word": "姉弟",
+        "reading": "してい",
+        "meaning": "older sister and younger brother"
+      },
+      {
+        "word": "継姉",
+        "reading": "ままねえ",
+        "meaning": "step-sister (elder); stepsister"
+      },
+      {
+        "word": "お姉",
+        "reading": "おねえ",
+        "meaning": "elder sister; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "思",
+    "meanings": [
+      "think"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "おぼ.す",
+      "おも.う",
+      "おもえら.く"
+    ],
+    "strokes": 9,
+    "heisig": "think",
+    "examples": [
+      {
+        "word": "思い",
+        "reading": "おもい",
+        "meaning": "thought"
+      },
+      {
+        "word": "思想",
+        "reading": "しそう",
+        "meaning": "thought; idea"
+      },
+      {
+        "word": "秋思",
+        "reading": "しゅうし",
+        "meaning": "lonely feeling of fall; autumnal melancholy"
+      }
+    ]
+  },
+  {
+    "kanji": "止",
+    "meanings": [
+      "halt",
+      "stop"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "-さ.し",
+      "-さ.す",
+      "-と.める",
+      "-ど.まり",
+      "-ど.め",
+      "-や.む",
+      "と.まる",
+      "と.める",
+      "とど.まる",
+      "とど.め",
+      "とど.める",
+      "や.む",
+      "や.める",
+      "よ.す"
+    ],
+    "strokes": 4,
+    "heisig": "stop",
+    "examples": [
+      {
+        "word": "止観",
+        "reading": "しかん",
+        "meaning": "calm abiding and clear observation (Tendai meditation)"
+      },
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "meaning": "interruption; discontinuance"
+      },
+      {
+        "word": "止句",
+        "reading": "とめく",
+        "meaning": "words or phrases not allowed (in waka and haikai)"
+      }
+    ]
+  },
+  {
+    "kanji": "死",
+    "meanings": [
+      "death",
+      "die"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "し.に-",
+      "し.ぬ"
+    ],
+    "strokes": 6,
+    "heisig": "death",
+    "examples": [
+      {
+        "word": "墜死",
+        "reading": "ついし",
+        "meaning": "falling to one's death"
+      },
+      {
+        "word": "半死",
+        "reading": "はんし",
+        "meaning": "half-dead"
+      },
+      {
+        "word": "死刑",
+        "reading": "しけい",
+        "meaning": "death penalty; capital punishment"
+      }
+    ]
+  },
+  {
+    "kanji": "私",
+    "meanings": [
+      "I",
+      "me",
+      "private"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "わたくし",
+      "わたし"
+    ],
+    "strokes": 7,
+    "heisig": "private",
+    "examples": [
+      {
+        "word": "私意",
+        "reading": "しい",
+        "meaning": "personal opinion"
+      },
+      {
+        "word": "私室",
+        "reading": "ししつ",
+        "meaning": "private room"
+      },
+      {
+        "word": "私選",
+        "reading": "しせん",
+        "meaning": "see: ; 国選"
+      }
+    ]
+  },
+  {
+    "kanji": "紙",
+    "meanings": [
+      "paper"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "かみ"
+    ],
+    "strokes": 10,
+    "heisig": "paper",
+    "examples": [
+      {
+        "word": "赤紙",
+        "reading": "あかがみ",
+        "meaning": "draft papers; call-up notice"
+      },
+      {
+        "word": "蚕紙",
+        "reading": "さんし",
+        "meaning": "silkworm-egg paper"
+      },
+      {
+        "word": "紙業",
+        "reading": "しぎょう",
+        "meaning": "paper industry; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "試",
+    "meanings": [
+      "attempt",
+      "experiment",
+      "ordeal",
+      "test",
+      "try"
+    ],
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "strokes": 13,
+    "heisig": "test",
+    "examples": [
+      {
+        "word": "試論",
+        "reading": "しろん",
+        "meaning": "essay; tentative assumption"
+      },
+      {
+        "word": "試し",
+        "reading": "ためし",
+        "meaning": "trial; test"
+      },
+      {
+        "word": "試訳",
+        "reading": "しやく",
+        "meaning": "trial translation; tentative translation"
+      }
+    ]
+  },
+  {
+    "kanji": "事",
+    "meanings": [
+      "business",
+      "fact",
+      "matter",
+      "possibly",
+      "reason",
+      "thing"
+    ],
+    "on": [
+      "ジ",
+      "ズ"
+    ],
+    "kun": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "strokes": 8,
+    "heisig": "matter",
+    "examples": [
+      {
+        "word": "薬事",
+        "reading": "やくじ",
+        "meaning": "pharmaceutical affairs"
+      },
+      {
+        "word": "善事",
+        "reading": "ぜんじ",
+        "meaning": "good thing; good deed"
+      },
+      {
+        "word": "事宜",
+        "reading": "じぎ",
+        "meaning": "fitting thing"
+      }
+    ]
+  },
+  {
+    "kanji": "字",
+    "meanings": [
+      "character",
+      "letter",
+      "section of village",
+      "word"
+    ],
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "-な",
+      "あざ",
+      "あざな"
+    ],
+    "strokes": 6,
+    "heisig": "character",
+    "examples": [
+      {
+        "word": "疑字",
+        "reading": "ぎじ",
+        "meaning": "character of questionable form"
+      },
+      {
+        "word": "古字",
+        "reading": "こじ",
+        "meaning": "ancient writing"
+      },
+      {
+        "word": "親字",
+        "reading": "おやじ",
+        "meaning": "entry kanji in a kanji dictionary; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "持",
+    "meanings": [
+      "have",
+      "hold"
+    ],
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "-も.ち",
+      "も.つ",
+      "も.てる"
+    ],
+    "strokes": 9,
+    "heisig": "hold",
+    "examples": [
+      {
+        "word": "持薬",
+        "reading": "じやく",
+        "meaning": "one's usual medicine"
+      },
+      {
+        "word": "享持",
+        "reading": "きょうじ",
+        "meaning": "securing; possession"
+      },
+      {
+        "word": "持久",
+        "reading": "じきゅう",
+        "meaning": "endurance; persistence"
+      }
+    ]
+  },
+  {
+    "kanji": "自",
+    "meanings": [
+      "oneself"
+    ],
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "おの.ずから",
+      "おの.ずと",
+      "みずか.ら"
+    ],
+    "strokes": 6,
+    "heisig": "oneself",
+    "examples": [
+      {
+        "word": "自民",
+        "reading": "じみん",
+        "meaning": "Liberal Democratic Party; LDP"
+      },
+      {
+        "word": "出自",
+        "reading": "しゅつじ",
+        "meaning": "origin; birthplace"
+      },
+      {
+        "word": "自決",
+        "reading": "じけつ",
+        "meaning": "self-determination"
+      }
+    ]
+  },
+  {
+    "kanji": "室",
+    "meanings": [
+      "apartment",
+      "cellar",
+      "chamber",
+      "greenhouse",
+      "room"
+    ],
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "むろ"
+    ],
+    "strokes": 9,
+    "heisig": "room",
+    "examples": [
+      {
+        "word": "憩室",
+        "reading": "けいしつ",
+        "meaning": "diverticulum"
+      },
+      {
+        "word": "室鯵",
+        "reading": "むろあじ",
+        "meaning": "brownstriped mackerel scad (Decapterus muroadsi)"
+      },
+      {
+        "word": "一室",
+        "reading": "いっしつ",
+        "meaning": "one room"
+      }
+    ]
+  },
+  {
+    "kanji": "質",
+    "meanings": [
+      "matter",
+      "quality",
+      "substance",
+      "temperament"
+    ],
+    "on": [
+      "シチ",
+      "シツ",
+      "チ"
+    ],
+    "kun": [
+      "ただ.す",
+      "たち",
+      "もと",
+      "わりふ"
+    ],
+    "strokes": 15,
+    "heisig": "substance",
+    "examples": [
+      {
+        "word": "膜質",
+        "reading": "まくしつ",
+        "meaning": "property of a film or membrane"
+      },
+      {
+        "word": "硬質",
+        "reading": "こうしつ",
+        "meaning": "hardness; stiffness"
+      },
+      {
+        "word": "質量",
+        "reading": "しつりょう",
+        "meaning": "mass"
+      }
+    ]
+  },
+  {
+    "kanji": "写",
+    "meanings": [
+      "be photographed",
+      "copy",
+      "describe"
+    ],
+    "on": [
+      "シャ",
+      "ジャ"
+    ],
+    "kun": [
+      "うつ-",
+      "うつ.し",
+      "うつ.す",
+      "うつ.る"
+    ],
+    "strokes": 5,
+    "heisig": "copy",
+    "examples": [
+      {
+        "word": "投写",
+        "reading": "とうしゃ",
+        "meaning": "projection (of images); see: "
+      },
+      {
+        "word": "音写",
+        "reading": "おんしゃ",
+        "meaning": "transliteration; transcription"
+      },
+      {
+        "word": "実写",
+        "reading": "じっしゃ",
+        "meaning": "live action (as opposed to animation)"
+      }
+    ]
+  },
+  {
+    "kanji": "社",
+    "meanings": [
+      "association",
+      "company",
+      "firm",
+      "office",
+      "shrine"
+    ],
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "やしろ"
+    ],
+    "strokes": 7,
+    "heisig": "company",
+    "examples": [
+      {
+        "word": "蕃社",
+        "reading": "ばんしゃ",
+        "meaning": "aborigines village"
+      },
+      {
+        "word": "社会",
+        "reading": "しゃかい",
+        "meaning": "society; public"
+      },
+      {
+        "word": "社歌",
+        "reading": "しゃか",
+        "meaning": "company song"
+      }
+    ]
+  },
+  {
+    "kanji": "者",
+    "meanings": [
+      "person",
+      "someone"
+    ],
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "もの"
+    ],
+    "strokes": 8,
+    "heisig": "someone",
+    "examples": [
+      {
+        "word": "偽者",
+        "reading": "にせもの",
+        "meaning": "impostor; imposter"
+      },
+      {
+        "word": "奏者",
+        "reading": "そうしゃ",
+        "meaning": "instrumentalist; player"
+      },
+      {
+        "word": "生者",
+        "reading": "せいしゃ",
+        "meaning": "living person; the living"
+      }
+    ]
+  },
+  {
+    "kanji": "借",
+    "meanings": [
+      "borrow",
+      "rent"
+    ],
+    "on": [
+      "シャク"
+    ],
+    "kun": [
+      "か.りる"
+    ],
+    "strokes": 10,
+    "heisig": "borrow",
+    "examples": [
+      {
+        "word": "貸借",
+        "reading": "たいしゃく",
+        "meaning": "loan; debit and credit"
+      },
+      {
+        "word": "前借",
+        "reading": "ぜんしゃく",
+        "meaning": "getting an advance; loan"
+      },
+      {
+        "word": "借音",
+        "reading": "しゃくおん",
+        "meaning": "see: ; 万葉仮名"
+      }
+    ]
+  },
+  {
+    "kanji": "主",
+    "meanings": [
+      "chief",
+      "lord",
+      "main thing",
+      "master",
+      "principal"
+    ],
+    "on": [
+      "シュ",
+      "シュウ",
+      "ス"
+    ],
+    "kun": [
+      "あるじ",
+      "おも",
+      "ぬし"
+    ],
+    "strokes": 5,
+    "heisig": "lord",
+    "examples": [
+      {
+        "word": "寄主",
+        "reading": "きしゅ",
+        "meaning": "host; see: "
+      },
+      {
+        "word": "山主",
+        "reading": "さんしゅ",
+        "meaning": "head priest (at a Buddhist temple)"
+      },
+      {
+        "word": "坊主",
+        "reading": "ぼうず",
+        "meaning": "Buddhist priest; bonze"
+      }
+    ]
+  },
+  {
+    "kanji": "手",
+    "meanings": [
+      "hand"
+    ],
+    "on": [
+      "シュ",
+      "ズ"
+    ],
+    "kun": [
+      "-て",
+      "た-",
+      "て",
+      "て-"
+    ],
+    "strokes": 4,
+    "heisig": "hand",
+    "examples": [
+      {
+        "word": "隻手",
+        "reading": "せきしゅ",
+        "meaning": "one hand; one arm"
+      },
+      {
+        "word": "手心",
+        "reading": "てごころ",
+        "meaning": "discretion; consideration"
+      },
+      {
+        "word": "選手",
+        "reading": "せんしゅ",
+        "meaning": "player (of a sport); athlete"
+      }
+    ]
+  },
+  {
+    "kanji": "秋",
+    "meanings": [
+      "autumn"
+    ],
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あき",
+      "とき"
+    ],
+    "strokes": 9,
+    "heisig": "autumn",
+    "examples": [
+      {
+        "word": "秋鯖",
+        "reading": "あきさば",
+        "meaning": "autumn saba; mackerel caught in autumn"
+      },
+      {
+        "word": "秋風",
+        "reading": "あきかぜ",
+        "meaning": "autumn breeze; fall breeze"
+      },
+      {
+        "word": "秋涼",
+        "reading": "しゅうりょう",
+        "meaning": "coolness of autumn; cool autumn wind"
+      }
+    ]
+  },
+  {
+    "kanji": "終",
+    "meanings": [
+      "end",
+      "finish"
+    ],
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "-お.わる",
+      "お.える",
+      "お.わる",
+      "おわ.る",
+      "つい",
+      "つい.に"
+    ],
+    "strokes": 11,
+    "heisig": "end",
+    "examples": [
+      {
+        "word": "終末",
+        "reading": "しゅうまつ",
+        "meaning": "end; close"
+      },
+      {
+        "word": "終車",
+        "reading": "しゅうしゃ",
+        "meaning": "the last train or bus (of a day)"
+      },
+      {
+        "word": "始終",
+        "reading": "しじゅう",
+        "meaning": "continuously; from beginning to end"
+      }
+    ]
+  },
+  {
+    "kanji": "習",
+    "meanings": [
+      "learn"
+    ],
+    "on": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "なら.い",
+      "なら.う"
+    ],
+    "strokes": 11,
+    "heisig": "learn",
+    "examples": [
+      {
+        "word": "遺習",
+        "reading": "いしゅう",
+        "meaning": "old customs"
+      },
+      {
+        "word": "習癖",
+        "reading": "しゅうへき",
+        "meaning": "(bad) habit"
+      },
+      {
+        "word": "自習",
+        "reading": "じしゅう",
+        "meaning": "self-study; teaching oneself"
+      }
+    ]
+  },
+  {
+    "kanji": "週",
+    "meanings": [
+      "week"
+    ],
+    "on": [
+      "シュウ"
+    ],
+    "kun": [],
+    "strokes": 11,
+    "heisig": "week",
+    "examples": [
+      {
+        "word": "週案",
+        "reading": "しゅうあん",
+        "meaning": "weekly ideas; weekly thoughts"
+      },
+      {
+        "word": "週番",
+        "reading": "しゅうばん",
+        "meaning": "weekly duty"
+      },
+      {
+        "word": "週日",
+        "reading": "しゅうじつ",
+        "meaning": "weekday"
+      }
+    ]
+  },
+  {
+    "kanji": "集",
+    "meanings": [
+      "congregate",
+      "flock",
+      "gather",
+      "meet",
+      "swarm"
+    ],
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "strokes": 12,
+    "heisig": "gather",
+    "examples": [
+      {
+        "word": "集結",
+        "reading": "しゅうけつ",
+        "meaning": "massing (of troops); gathering"
+      },
+      {
+        "word": "集取",
+        "reading": "しゅうしゅ",
+        "meaning": "collecting; gathering"
+      },
+      {
+        "word": "集群",
+        "reading": "しゅうぐん",
+        "meaning": "gather a group together"
+      }
+    ]
+  },
+  {
+    "kanji": "住",
+    "meanings": [
+      "dwell",
+      "inhabit",
+      "live",
+      "reside"
+    ],
+    "on": [
+      "ジュウ",
+      "チュウ",
+      "ヂュウ"
+    ],
+    "kun": [
+      "-ず.まい",
+      "す.まう",
+      "す.む"
+    ],
+    "strokes": 7,
+    "heisig": "dwell",
+    "examples": [
+      {
+        "word": "居住",
+        "reading": "きょじゅう",
+        "meaning": "residence; living (at, in)"
+      },
+      {
+        "word": "内住",
+        "reading": "ないじゅう",
+        "meaning": "indwelling (life)"
+      },
+      {
+        "word": "住友",
+        "reading": "すみとも",
+        "meaning": "Sumitomo"
+      }
+    ]
+  },
+  {
+    "kanji": "重",
+    "meanings": [
+      "-fold",
+      "esteem",
+      "heap up",
+      "heavy",
+      "important",
+      "nest of boxes",
+      "pile up",
+      "respect"
+    ],
+    "on": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kun": [
+      "え",
+      "おも",
+      "おも.い",
+      "おも.なう",
+      "おも.り",
+      "かさ.なる",
+      "かさ.ねる"
+    ],
+    "strokes": 9,
+    "heisig": "heavy",
+    "examples": [
+      {
+        "word": "重土",
+        "reading": "じゅうど",
+        "meaning": "barium oxide; see: "
+      },
+      {
+        "word": "重傷",
+        "reading": "じゅうしょう",
+        "meaning": "serious wound; serious injury"
+      },
+      {
+        "word": "重愛",
+        "reading": "じゅうあい",
+        "meaning": "endearment"
+      }
+    ]
+  },
+  {
+    "kanji": "春",
+    "meanings": [
+      "spring (season)",
+      "springtime"
+    ],
+    "on": [
+      "シュン"
+    ],
+    "kun": [
+      "はる"
+    ],
+    "strokes": 9,
+    "heisig": "springtime",
+    "examples": [
+      {
+        "word": "長春",
+        "reading": "ちょうしゅん",
+        "meaning": "everlasting spring"
+      },
+      {
+        "word": "明春",
+        "reading": "みょうしゅん",
+        "meaning": "next spring"
+      },
+      {
+        "word": "春山",
+        "reading": "はるやま",
+        "meaning": "mountain in early spring; mountain that has the appearance of spring"
+      }
+    ]
+  },
+  {
+    "kanji": "少",
+    "meanings": [
+      "few",
+      "little"
+    ],
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "strokes": 4,
+    "heisig": "few",
+    "examples": [
+      {
+        "word": "少雨",
+        "reading": "しょうう",
+        "meaning": "small amount of rainfall; (a) light rainfall"
+      },
+      {
+        "word": "少子",
+        "reading": "しょうし",
+        "meaning": "small number of children (per family); bearing few children"
+      },
+      {
+        "word": "少領",
+        "reading": "しょうりょう",
+        "meaning": "small territory"
+      }
+    ]
+  },
+  {
+    "kanji": "場",
+    "meanings": [
+      "location",
+      "place"
+    ],
+    "on": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kun": [
+      "ば"
+    ],
+    "strokes": 12,
+    "heisig": "location",
+    "examples": [
+      {
+        "word": "矢場",
+        "reading": "やば",
+        "meaning": "archery range"
+      },
+      {
+        "word": "刑場",
+        "reading": "けいじょう",
+        "meaning": "place of execution"
+      },
+      {
+        "word": "場合",
+        "reading": "ばやい",
+        "meaning": "case; occasion"
+      }
+    ]
+  },
+  {
+    "kanji": "色",
+    "meanings": [
+      "color"
+    ],
+    "on": [
+      "シキ",
+      "ショク"
+    ],
+    "kun": [
+      "いろ"
+    ],
+    "strokes": 6,
+    "heisig": "color",
+    "examples": [
+      {
+        "word": "和色",
+        "reading": "わしょく",
+        "meaning": "traditional Japanese colours (colors)"
+      },
+      {
+        "word": "有色",
+        "reading": "ゆうしょく",
+        "meaning": "colored; coloured"
+      },
+      {
+        "word": "碧色",
+        "reading": "へきしょく",
+        "meaning": "green; emerald"
+      }
+    ]
+  },
+  {
+    "kanji": "心",
+    "meanings": [
+      "heart",
+      "heart radical (no. 61)",
+      "mind",
+      "spirit"
+    ],
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "-ごころ",
+      "こころ"
+    ],
+    "strokes": 4,
+    "heisig": "heart",
+    "examples": [
+      {
+        "word": "手心",
+        "reading": "てごころ",
+        "meaning": "discretion; consideration"
+      },
+      {
+        "word": "炉心",
+        "reading": "ろしん",
+        "meaning": "nuclear reactor core"
+      },
+      {
+        "word": "天心",
+        "reading": "てんしん",
+        "meaning": "zenith"
+      }
+    ]
+  },
+  {
+    "kanji": "新",
+    "meanings": [
+      "new"
+    ],
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "あたら.しい",
+      "あら-",
+      "あら.た",
+      "にい-"
+    ],
+    "strokes": 13,
+    "heisig": "new",
+    "examples": [
+      {
+        "word": "新円",
+        "reading": "しんえん",
+        "meaning": "new yen (issued in 1946 to fight inflation)"
+      },
+      {
+        "word": "新車",
+        "reading": "しんしゃ",
+        "meaning": "new car"
+      },
+      {
+        "word": "斬新",
+        "reading": "ざんしん",
+        "meaning": "novel; original"
+      }
+    ]
+  },
+  {
+    "kanji": "真",
+    "meanings": [
+      "Buddhist sect",
+      "reality",
+      "true"
+    ],
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "strokes": 10,
+    "heisig": "true",
+    "examples": [
+      {
+        "word": "真書",
+        "reading": "しんしょ",
+        "meaning": "printed style (of writing Chinese characters); square style"
+      },
+      {
+        "word": "真勇",
+        "reading": "しんゆう",
+        "meaning": "true courage; true heroism"
+      },
+      {
+        "word": "真の",
+        "reading": "しんの",
+        "meaning": "true; real"
+      }
+    ]
+  },
+  {
+    "kanji": "親",
+    "meanings": [
+      "dealer (cards)",
+      "familiarity",
+      "intimacy",
+      "parent",
+      "relative"
+    ],
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "strokes": 16,
+    "heisig": "parent",
+    "examples": [
+      {
+        "word": "親兵",
+        "reading": "しんぺい",
+        "meaning": "Imperial bodyguard"
+      },
+      {
+        "word": "雄親",
+        "reading": "ゆうしん",
+        "meaning": "sire; male parent"
+      },
+      {
+        "word": "親族",
+        "reading": "うから",
+        "meaning": "blood relative"
+      }
+    ]
+  },
+  {
+    "kanji": "図",
+    "meanings": [
+      "audacious",
+      "drawing",
+      "extraordinary",
+      "map",
+      "plan"
+    ],
+    "on": [
+      "ズ",
+      "ト"
+    ],
+    "kun": [
+      "え",
+      "はか.る"
+    ],
+    "strokes": 7,
+    "heisig": "map",
+    "examples": [
+      {
+        "word": "図る",
+        "reading": "はかる",
+        "meaning": "to plan; to attempt"
+      },
+      {
+        "word": "図像",
+        "reading": "ずぞう",
+        "meaning": "icon"
+      },
+      {
+        "word": "系図",
+        "reading": "けいず",
+        "meaning": "family tree; pedigree"
+      }
+    ]
+  },
+  {
+    "kanji": "世",
+    "meanings": [
+      "generation",
+      "public",
+      "society",
+      "world"
+    ],
+    "on": [
+      "セ",
+      "セイ",
+      "ソウ"
+    ],
+    "kun": [
+      "よ"
+    ],
+    "strokes": 5,
+    "heisig": "generation",
+    "examples": [
+      {
+        "word": "一世",
+        "reading": "いっせい",
+        "meaning": "generation; lifetime"
+      },
+      {
+        "word": "棄世",
+        "reading": "きせい",
+        "meaning": "death"
+      },
+      {
+        "word": "末世",
+        "reading": "まっせ",
+        "meaning": "degenerate age; corrupt world"
+      }
+    ]
+  },
+  {
+    "kanji": "正",
+    "meanings": [
+      "10**40",
+      "correct",
+      "justice",
+      "righteous"
+    ],
+    "on": [
+      "ショウ",
+      "セイ"
+    ],
+    "kun": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "strokes": 5,
+    "heisig": "correct",
+    "examples": [
+      {
+        "word": "正続",
+        "reading": "せいぞく",
+        "meaning": "book or document and its supplement"
+      },
+      {
+        "word": "正意",
+        "reading": "しょうい",
+        "meaning": "correct meaning; original meaning"
+      },
+      {
+        "word": "正室",
+        "reading": "せいしつ",
+        "meaning": "legal wife (of a noble) (as opposed to a concubine); see: "
+      }
+    ]
+  },
+  {
+    "kanji": "青",
+    "meanings": [
+      "blue",
+      "green"
+    ],
+    "on": [
+      "ショウ",
+      "セイ"
+    ],
+    "kun": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "strokes": 8,
+    "heisig": "blue",
+    "examples": [
+      {
+        "word": "青札",
+        "reading": "あおふだ",
+        "meaning": "blue tag; blue card"
+      },
+      {
+        "word": "青藍",
+        "reading": "せいらん",
+        "meaning": "indigo blue"
+      },
+      {
+        "word": "青軸",
+        "reading": "あおじく",
+        "meaning": "cultivar of Japanese apricot (Prunus mume)"
+      }
+    ]
+  },
+  {
+    "kanji": "赤",
+    "meanings": [
+      "red"
+    ],
+    "on": [
+      "シャク",
+      "セキ"
+    ],
+    "kun": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "strokes": 7,
+    "heisig": "red",
+    "examples": [
+      {
+        "word": "赤鼻",
+        "reading": "あかはな",
+        "meaning": "red nose"
+      },
+      {
+        "word": "赤紙",
+        "reading": "あかがみ",
+        "meaning": "draft papers; call-up notice"
+      },
+      {
+        "word": "赤々",
+        "reading": "あかあか",
+        "meaning": "bright red; bright"
+      }
+    ]
+  },
+  {
+    "kanji": "切",
+    "meanings": [
+      "be sharp",
+      "cut",
+      "cutoff"
+    ],
+    "on": [
+      "サイ",
+      "セツ"
+    ],
+    "kun": [
+      "-き.り",
+      "-き.る",
+      "-き.れ",
+      "-き.れる",
+      "-ぎ.り",
+      "-ぎ.れ",
+      "き.り",
+      "き.る",
+      "き.れ",
+      "き.れる"
+    ],
+    "strokes": 4,
+    "heisig": "cut",
+    "examples": [
+      {
+        "word": "切片",
+        "reading": "せっぺん",
+        "meaning": "segment; slice"
+      },
+      {
+        "word": "切磋",
+        "reading": "せっさ",
+        "meaning": "working hard; applying oneself"
+      },
+      {
+        "word": "切痕",
+        "reading": "せっこん",
+        "meaning": "notch; indentation"
+      }
+    ]
+  },
+  {
+    "kanji": "早",
+    "meanings": [
+      "early",
+      "fast"
+    ],
+    "on": [
+      "サッ",
+      "ソウ"
+    ],
+    "kun": [
+      "さ-",
+      "はや",
+      "はや-",
+      "はや.い",
+      "はや.まる",
+      "はや.める"
+    ],
+    "strokes": 6,
+    "heisig": "early",
+    "examples": [
+      {
+        "word": "早大",
+        "reading": "そうだい",
+        "meaning": "Waseda University (abbr)"
+      },
+      {
+        "word": "早熟",
+        "reading": "そうじゅく",
+        "meaning": "precocity; early ripening"
+      },
+      {
+        "word": "最早",
+        "reading": "もはや",
+        "meaning": "already; now"
+      }
+    ]
+  },
+  {
+    "kanji": "走",
+    "meanings": [
+      "run"
+    ],
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "はし.る"
+    ],
+    "strokes": 7,
+    "heisig": "run",
+    "examples": [
+      {
+        "word": "洲走",
+        "reading": "すばしり",
+        "meaning": "young striped mullet; see: "
+      },
+      {
+        "word": "賃走",
+        "reading": "ちんそう",
+        "meaning": "carrying a passenger; on a taxi's LED display"
+      },
+      {
+        "word": "走り",
+        "reading": "はしり",
+        "meaning": "running"
+      }
+    ]
+  },
+  {
+    "kanji": "送",
+    "meanings": [
+      "escort",
+      "send"
+    ],
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "おく.る"
+    ],
+    "strokes": 9,
+    "heisig": "escort/send off",
+    "examples": [
+      {
+        "word": "送稿",
+        "reading": "そうこう",
+        "meaning": "document transmission"
+      },
+      {
+        "word": "輸送",
+        "reading": "ゆそう",
+        "meaning": "transport; transportation"
+      },
+      {
+        "word": "給送",
+        "reading": "きゅうそう",
+        "meaning": "feed"
+      }
+    ]
+  },
+  {
+    "kanji": "足",
+    "meanings": [
+      "be sufficient",
+      "counter for pairs of footwear",
+      "foot",
+      "leg"
+    ],
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "あし",
+      "た.す",
+      "た.りる",
+      "た.る"
+    ],
+    "strokes": 7,
+    "heisig": "leg",
+    "examples": [
+      {
+        "word": "土足",
+        "reading": "どそく",
+        "meaning": "shod feet; wearing shoes"
+      },
+      {
+        "word": "足蹴",
+        "reading": "あしげ",
+        "meaning": "kick"
+      },
+      {
+        "word": "足背",
+        "reading": "そくはい",
+        "meaning": "top of the foot; instep"
+      }
+    ]
+  },
+  {
+    "kanji": "族",
+    "meanings": [
+      "family",
+      "tribe"
+    ],
+    "on": [
+      "ゾク"
+    ],
+    "kun": [],
+    "strokes": 11,
+    "heisig": "tribe",
+    "examples": [
+      {
+        "word": "親族",
+        "reading": "うから",
+        "meaning": "blood relative"
+      },
+      {
+        "word": "神族",
+        "reading": "しんぞく",
+        "meaning": "family of gods; clan of gods"
+      },
+      {
+        "word": "閥族",
+        "reading": "ばつぞく",
+        "meaning": "clan; clique"
+      }
+    ]
+  },
+  {
+    "kanji": "多",
+    "meanings": [
+      "frequent",
+      "many",
+      "much"
+    ],
+    "on": [
+      "タ"
+    ],
+    "kun": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "strokes": 6,
+    "heisig": "many",
+    "examples": [
+      {
+        "word": "多党",
+        "reading": "たとう",
+        "meaning": "multiple political parties"
+      },
+      {
+        "word": "多飲",
+        "reading": "たいん",
+        "meaning": "polydipsia"
+      },
+      {
+        "word": "多色",
+        "reading": "たしょく",
+        "meaning": "many colors; many colours"
+      }
+    ]
+  },
+  {
+    "kanji": "体",
+    "meanings": [
+      "body",
+      "counter for images",
+      "object",
+      "reality",
+      "substance"
+    ],
+    "on": [
+      "タイ",
+      "テイ"
+    ],
+    "kun": [
+      "かたち",
+      "からだ"
+    ],
+    "strokes": 7,
+    "heisig": "body",
+    "examples": [
+      {
+        "word": "体言",
+        "reading": "たいげん",
+        "meaning": "indeclinable nominal (in Japanese)"
+      },
+      {
+        "word": "草体",
+        "reading": "そうたい",
+        "meaning": "highly cursive style (of writing Chinese characters); grass style"
+      },
+      {
+        "word": "光体",
+        "reading": "こうたい",
+        "meaning": "luminous body"
+      }
+    ]
+  },
+  {
+    "kanji": "待",
+    "meanings": [
+      "depend on",
+      "wait"
+    ],
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "-ま.ち",
+      "ま.つ"
+    ],
+    "strokes": 9,
+    "heisig": "wait",
+    "examples": [
+      {
+        "word": "待避",
+        "reading": "たいひ",
+        "meaning": "taking refuge and waiting (for the danger to pass)"
+      },
+      {
+        "word": "待望",
+        "reading": "たいぼう",
+        "meaning": "waiting expectantly; waiting eagerly"
+      },
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "to wait"
+      }
+    ]
+  },
+  {
+    "kanji": "貸",
+    "meanings": [
+      "lend"
+    ],
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "か.し-",
+      "か.す",
+      "かし-"
+    ],
+    "strokes": 12,
+    "heisig": "lend",
+    "examples": [
+      {
+        "word": "貸借",
+        "reading": "たいしゃく",
+        "meaning": "loan; debit and credit"
+      },
+      {
+        "word": "転貸",
+        "reading": "てんたい",
+        "meaning": "sublease; sublet"
+      },
+      {
+        "word": "貸賃",
+        "reading": "かしちん",
+        "meaning": "rental fee; rent"
+      }
+    ]
+  },
+  {
+    "kanji": "代",
+    "meanings": [
+      "age",
+      "change",
+      "charge",
+      "convert",
+      "counter for decades of ages, eras, etc.",
+      "fee",
+      "generation",
+      "period",
+      "rate",
+      "replace",
+      "substitute"
+    ],
+    "on": [
+      "タイ",
+      "ダイ"
+    ],
+    "kun": [
+      "-が.わり",
+      "-がわ.り",
+      "か.える",
+      "か.わり",
+      "か.わる",
+      "かわ.り",
+      "かわ.る",
+      "しろ",
+      "よ"
+    ],
+    "strokes": 5,
+    "heisig": "substitute",
+    "examples": [
+      {
+        "word": "代換",
+        "reading": "だいかん",
+        "meaning": "hypallage"
+      },
+      {
+        "word": "身代",
+        "reading": "しんだい",
+        "meaning": "fortune; property"
+      },
+      {
+        "word": "代務",
+        "reading": "だいむ",
+        "meaning": "vicarious management"
+      }
+    ]
+  },
+  {
+    "kanji": "台",
+    "meanings": [
+      "a stand",
+      "counter for machines and vehicles",
+      "pedestal"
+    ],
+    "on": [
+      "タイ",
+      "ダイ"
+    ],
+    "kun": [
+      "うてな",
+      "つかさ",
+      "われ"
+    ],
+    "strokes": 5,
+    "heisig": "pedestal",
+    "examples": [
+      {
+        "word": "台木",
+        "reading": "だいぎ",
+        "meaning": "stock (in grafting)"
+      },
+      {
+        "word": "縁台",
+        "reading": "えんだい",
+        "meaning": "bench"
+      },
+      {
+        "word": "尊台",
+        "reading": "そんだい",
+        "meaning": "you; archaic or literary"
+      }
+    ]
+  },
+  {
+    "kanji": "題",
+    "meanings": [
+      "subject",
+      "topic"
+    ],
+    "on": [
+      "ダイ"
+    ],
+    "kun": [],
+    "strokes": 18,
+    "heisig": "topic",
+    "examples": [
+      {
+        "word": "雑題",
+        "reading": "ざつだい",
+        "meaning": "miscellaneous problems; miscellaneous subjects (themes)"
+      },
+      {
+        "word": "課題",
+        "reading": "かだい",
+        "meaning": "subject; theme"
+      },
+      {
+        "word": "放題",
+        "reading": "ほうだい",
+        "meaning": "(doing) as one pleases; to one's heart's content"
+      }
+    ]
+  },
+  {
+    "kanji": "知",
+    "meanings": [
+      "know",
+      "wisdom"
+    ],
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "し.らせる",
+      "し.る"
+    ],
+    "strokes": 8,
+    "heisig": "know",
+    "examples": [
+      {
+        "word": "知行",
+        "reading": "ちぎょう",
+        "meaning": "carrying out one's duties"
+      },
+      {
+        "word": "良知",
+        "reading": "りょうち",
+        "meaning": "intuition"
+      },
+      {
+        "word": "知者",
+        "reading": "ちしゃ",
+        "meaning": "sage; wise man"
+      }
+    ]
+  },
+  {
+    "kanji": "地",
+    "meanings": [
+      "earth",
+      "ground"
+    ],
+    "on": [
+      "ジ",
+      "チ"
+    ],
+    "kun": [],
+    "strokes": 6,
+    "heisig": "ground",
+    "examples": [
+      {
+        "word": "接地",
+        "reading": "せっち",
+        "meaning": "ground; earth"
+      },
+      {
+        "word": "戦地",
+        "reading": "せんち",
+        "meaning": "front (in battle)"
+      },
+      {
+        "word": "地竜",
+        "reading": "じりゅう",
+        "meaning": "herbal medicine prepared from dried earthworms"
+      }
+    ]
+  },
+  {
+    "kanji": "茶",
+    "meanings": [
+      "tea"
+    ],
+    "on": [
+      "サ",
+      "チャ"
+    ],
+    "kun": [],
+    "strokes": 9,
+    "heisig": "tea",
+    "examples": [
+      {
+        "word": "飲茶",
+        "reading": "ヤムチャ",
+        "meaning": "yum cha; Chinese"
+      },
+      {
+        "word": "茶銘",
+        "reading": "ちゃめい",
+        "meaning": "name of a tea blend"
+      },
+      {
+        "word": "茶寮",
+        "reading": "ちゃりょう",
+        "meaning": "tea-ceremony room; tea-ceremony hut"
+      }
+    ]
+  },
+  {
+    "kanji": "着",
+    "meanings": [
+      "arrive",
+      "counter for suits of clothing",
+      "don",
+      "wear"
+    ],
+    "on": [
+      "ジャク",
+      "チャク"
+    ],
+    "kun": [
+      "き.せる",
+      "き.る",
+      "つ.く",
+      "つ.ける"
+    ],
+    "strokes": 12,
+    "heisig": "don",
+    "examples": [
+      {
+        "word": "着底",
+        "reading": "ちゃくてい",
+        "meaning": "reaching the bottom"
+      },
+      {
+        "word": "逢着",
+        "reading": "ほうちゃく",
+        "meaning": "encountering; facing"
+      },
+      {
+        "word": "合着",
+        "reading": "あいぎ",
+        "meaning": "between-season wear; spring and autumn clothing"
+      }
+    ]
+  },
+  {
+    "kanji": "昼",
+    "meanings": [
+      "daytime",
+      "noon"
+    ],
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひる"
+    ],
+    "strokes": 9,
+    "heisig": "daytime",
+    "examples": [
+      {
+        "word": "昼顔",
+        "reading": "ひるがお",
+        "meaning": "Belle de Jour (novel, film)"
+      },
+      {
+        "word": "昼勤",
+        "reading": "ちゅうきん",
+        "meaning": "day shift"
+      },
+      {
+        "word": "春昼",
+        "reading": "しゅんちゅう",
+        "meaning": "spring day (which seems long and quiet)"
+      }
+    ]
+  },
+  {
+    "kanji": "注",
+    "meanings": [
+      "annotate",
+      "comment",
+      "concentrate on",
+      "flow into",
+      "irrigate",
+      "notes",
+      "pour",
+      "shed (tears)"
+    ],
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "さ.す",
+      "そそ.ぐ",
+      "つ.ぐ"
+    ],
+    "strokes": 8,
+    "heisig": "pour",
+    "examples": [
+      {
+        "word": "注ぐ",
+        "reading": "つぐ",
+        "meaning": "to pour (into a vessel); to dish out (food or drink)"
+      },
+      {
+        "word": "受注",
+        "reading": "じゅちゅう",
+        "meaning": "accepting an order; receiving an order"
+      },
+      {
+        "word": "静注",
+        "reading": "じょうちゅう",
+        "meaning": "intravenous injection; IV"
+      }
+    ]
+  },
+  {
+    "kanji": "朝",
+    "meanings": [
+      "(North) Korea",
+      "dynasty",
+      "epoch",
+      "morning",
+      "period",
+      "regime"
+    ],
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "あさ"
+    ],
+    "strokes": 12,
+    "heisig": "morning",
+    "examples": [
+      {
+        "word": "朝鮮",
+        "reading": "ちょうせん",
+        "meaning": "Korea"
+      },
+      {
+        "word": "王朝",
+        "reading": "おうちょう",
+        "meaning": "dynasty"
+      },
+      {
+        "word": "朝顔",
+        "reading": "あさがお",
+        "meaning": "Japanese morning glory (Ipomoea nil); picotee morning glory"
+      }
+    ]
+  },
+  {
+    "kanji": "町",
+    "meanings": [
+      "block",
+      "street",
+      "town",
+      "village"
+    ],
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "まち"
+    ],
+    "strokes": 7,
+    "heisig": "village",
+    "examples": [
+      {
+        "word": "町道",
+        "reading": "ちょうどう",
+        "meaning": "town road"
+      },
+      {
+        "word": "町衆",
+        "reading": "まちしゅう",
+        "meaning": "important local businessmen (in the Muromachi period); local leaders"
+      },
+      {
+        "word": "町民",
+        "reading": "ちょうみん",
+        "meaning": "townsman; townswoman"
+      }
+    ]
+  },
+  {
+    "kanji": "鳥",
+    "meanings": [
+      "bird",
+      "chicken"
+    ],
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "とり"
+    ],
+    "strokes": 11,
+    "heisig": "bird",
+    "examples": [
+      {
+        "word": "禽鳥",
+        "reading": "きんちょう",
+        "meaning": "birds"
+      },
+      {
+        "word": "鳥人",
+        "reading": "ちょうじん",
+        "meaning": "aviator; flying ace"
+      },
+      {
+        "word": "海鳥",
+        "reading": "うみどり",
+        "meaning": "sea bird"
+      }
+    ]
+  },
+  {
+    "kanji": "通",
+    "meanings": [
+      "avenue",
+      "commute",
+      "counter for letters, notes, documents, etc.",
+      "pass through",
+      "traffic"
+    ],
+    "on": [
+      "ツ",
+      "ツウ"
+    ],
+    "kun": [
+      "-とお.り",
+      "-どお.し",
+      "-どお.り",
+      "かよ.う",
+      "とお.し",
+      "とお.す",
+      "とお.り",
+      "とお.る"
+    ],
+    "strokes": 10,
+    "heisig": "traffic",
+    "examples": [
+      {
+        "word": "通例",
+        "reading": "つうれい",
+        "meaning": "custom; general rule"
+      },
+      {
+        "word": "連通",
+        "reading": "れんつう",
+        "meaning": "communication; connection"
+      },
+      {
+        "word": "角通",
+        "reading": "かくつう",
+        "meaning": "expert"
+      }
+    ]
+  },
+  {
+    "kanji": "弟",
+    "meanings": [
+      "faithful service to elders",
+      "younger brother"
+    ],
+    "on": [
+      "ダイ",
+      "テイ",
+      "デ"
+    ],
+    "kun": [
+      "おとうと"
+    ],
+    "strokes": 7,
+    "heisig": "younger brother",
+    "examples": [
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings; brothers and sisters"
+      },
+      {
+        "word": "姉弟",
+        "reading": "してい",
+        "meaning": "older sister and younger brother"
+      },
+      {
+        "word": "実弟",
+        "reading": "じってい",
+        "meaning": "biological younger brother"
+      }
+    ]
+  },
+  {
+    "kanji": "店",
+    "meanings": [
+      "shop",
+      "store"
+    ],
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "たな",
+      "みせ"
+    ],
+    "strokes": 8,
+    "heisig": "store",
+    "examples": [
+      {
+        "word": "店頭",
+        "reading": "てんとう",
+        "meaning": "shopfront; storefront"
+      },
+      {
+        "word": "同店",
+        "reading": "どうてん",
+        "meaning": "the same store; the same shop"
+      },
+      {
+        "word": "店長",
+        "reading": "てんちょう",
+        "meaning": "shop manager"
+      }
+    ]
+  },
+  {
+    "kanji": "転",
+    "meanings": [
+      "change",
+      "revolve",
+      "turn around"
+    ],
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "うたた",
+      "うつ.る",
+      "くる.めく",
+      "ころ.がす",
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.ぶ",
+      "まろ.ぶ"
+    ],
+    "strokes": 11,
+    "heisig": "revolve",
+    "examples": [
+      {
+        "word": "流転",
+        "reading": "るてん",
+        "meaning": "continual change; vicissitudes"
+      },
+      {
+        "word": "転座",
+        "reading": "てんざ",
+        "meaning": "translocation"
+      },
+      {
+        "word": "転所",
+        "reading": "てんしょ",
+        "meaning": "moving; transfer"
+      }
+    ]
+  },
+  {
+    "kanji": "田",
+    "meanings": [
+      "rice field",
+      "rice paddy"
+    ],
+    "on": [
+      "デン"
+    ],
+    "kun": [
+      "た"
+    ],
+    "strokes": 5,
+    "heisig": "rice field",
+    "examples": [
+      {
+        "word": "田野",
+        "reading": "でんや",
+        "meaning": "cultivated fields; countryside"
+      },
+      {
+        "word": "田鳧",
+        "reading": "たげり",
+        "meaning": "northern lapwing (Vanellus vanellus); green plover"
+      },
+      {
+        "word": "棚田",
+        "reading": "たなだ",
+        "meaning": "terraced rice fields"
+      }
+    ]
+  },
+  {
+    "kanji": "度",
+    "meanings": [
+      "attitude",
+      "consider",
+      "counter for occurrences",
+      "degrees",
+      "occurrence",
+      "time"
+    ],
+    "on": [
+      "タク",
+      "ト",
+      "ド"
+    ],
+    "kun": [
+      "-た.い",
+      "たび"
+    ],
+    "strokes": 9,
+    "heisig": "degrees",
+    "examples": [
+      {
+        "word": "五度",
+        "reading": "ごど",
+        "meaning": "fifth (interval)"
+      },
+      {
+        "word": "百度",
+        "reading": "ひゃくど",
+        "meaning": "hundred times"
+      },
+      {
+        "word": "適度",
+        "reading": "てきど",
+        "meaning": "moderate (degree); proper (amount)"
+      }
+    ]
+  },
+  {
+    "kanji": "冬",
+    "meanings": [
+      "winter"
+    ],
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ふゆ"
+    ],
+    "strokes": 5,
+    "heisig": "winter",
+    "examples": [
+      {
+        "word": "冬官",
+        "reading": "とうかん",
+        "meaning": "Ministry of Works (Zhou dynasty China); see: "
+      },
+      {
+        "word": "冬型",
+        "reading": "ふゆがた",
+        "meaning": "atmospheric pressure pattern in winter; winter pressure pattern"
+      },
+      {
+        "word": "来冬",
+        "reading": "らいとう",
+        "meaning": "next winter"
+      }
+    ]
+  },
+  {
+    "kanji": "答",
+    "meanings": [
+      "answer",
+      "solution"
+    ],
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "こた.え",
+      "こた.える"
+    ],
+    "strokes": 12,
+    "heisig": "solution",
+    "examples": [
+      {
+        "word": "答え",
+        "reading": "こたえ",
+        "meaning": "answer; reply"
+      },
+      {
+        "word": "拝答",
+        "reading": "はいとう",
+        "meaning": "replying; responding"
+      },
+      {
+        "word": "正答",
+        "reading": "せいとう",
+        "meaning": "correct answer"
+      }
+    ]
+  },
+  {
+    "kanji": "動",
+    "meanings": [
+      "change",
+      "confusion",
+      "motion",
+      "move",
+      "shake",
+      "shift"
+    ],
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "うご.かす",
+      "うご.く"
+    ],
+    "strokes": 11,
+    "heisig": "move",
+    "examples": [
+      {
+        "word": "動脈",
+        "reading": "どうみゃく",
+        "meaning": "artery"
+      },
+      {
+        "word": "制動",
+        "reading": "せいどう",
+        "meaning": "braking"
+      },
+      {
+        "word": "渦動",
+        "reading": "かどう",
+        "meaning": "vortex"
+      }
+    ]
+  },
+  {
+    "kanji": "同",
+    "meanings": [
+      "agree",
+      "equal",
+      "same"
+    ],
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "おな.じ"
+    ],
+    "strokes": 6,
+    "heisig": "same",
+    "examples": [
+      {
+        "word": "同宿",
+        "reading": "どうしゅく",
+        "meaning": "lodging in the same place"
+      },
+      {
+        "word": "同僚",
+        "reading": "どうりょう",
+        "meaning": "coworker; co-worker"
+      },
+      {
+        "word": "同上",
+        "reading": "どうじょう",
+        "meaning": "same as above; ditto"
+      }
+    ]
+  },
+  {
+    "kanji": "堂",
+    "meanings": [
+      "hall",
+      "public chamber"
+    ],
+    "on": [
+      "ドウ"
+    ],
+    "kun": [],
+    "strokes": 11,
+    "heisig": "public chamber/hall",
+    "examples": [
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "dining room; dining hall"
+      },
+      {
+        "word": "鞘堂",
+        "reading": "さやどう",
+        "meaning": "see: ; 覆屋"
+      },
+      {
+        "word": "堂鳩",
+        "reading": "どうばと",
+        "meaning": "domestic pigeon; see: "
+      }
+    ]
+  },
+  {
+    "kanji": "道",
+    "meanings": [
+      "course",
+      "district",
+      "journey",
+      "moral",
+      "road-way",
+      "street",
+      "teachings"
+    ],
+    "on": [
+      "トウ",
+      "ドウ"
+    ],
+    "kun": [
+      "いう",
+      "みち"
+    ],
+    "strokes": 12,
+    "heisig": "road-way",
+    "examples": [
+      {
+        "word": "片道",
+        "reading": "かたみち",
+        "meaning": "one-way (trip)"
+      },
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "meaning": "road; highway"
+      },
+      {
+        "word": "石道",
+        "reading": "いしみち",
+        "meaning": "stony path; stony road"
+      }
+    ]
+  },
+  {
+    "kanji": "特",
+    "meanings": [
+      "special"
+    ],
+    "on": [
+      "トク"
+    ],
+    "kun": [],
+    "strokes": 10,
+    "heisig": "special",
+    "examples": [
+      {
+        "word": "特立",
+        "reading": "とくりつ",
+        "meaning": "prominence; independence"
+      },
+      {
+        "word": "特区",
+        "reading": "とっく",
+        "meaning": "special ward; see: "
+      },
+      {
+        "word": "特典",
+        "reading": "とくてん",
+        "meaning": "privilege; special favor"
+      }
+    ]
+  },
+  {
+    "kanji": "肉",
+    "meanings": [
+      "meat"
+    ],
+    "on": [
+      "ニク"
+    ],
+    "kun": [
+      "しし"
+    ],
+    "strokes": 6,
+    "heisig": "meat",
+    "examples": [
+      {
+        "word": "苦肉",
+        "reading": "くにく",
+        "meaning": "hurting oneself (to trick an adversary); see: "
+      },
+      {
+        "word": "畜肉",
+        "reading": "ちくにく",
+        "meaning": "meat (of domesticated animals)"
+      },
+      {
+        "word": "眼肉",
+        "reading": "がんにく",
+        "meaning": "meat around the eyes of a fish"
+      }
+    ]
+  },
+  {
+    "kanji": "買",
+    "meanings": [
+      "buy"
+    ],
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "か.う"
+    ],
+    "strokes": 12,
+    "heisig": "buy",
+    "examples": [
+      {
+        "word": "試買",
+        "reading": "しばい",
+        "meaning": "trial purchase"
+      },
+      {
+        "word": "買弁",
+        "reading": "ばいべん",
+        "meaning": "comprador; compradore"
+      },
+      {
+        "word": "買取",
+        "reading": "かいとり",
+        "meaning": "purchase; buying"
+      }
+    ]
+  },
+  {
+    "kanji": "売",
+    "meanings": [
+      "sell"
+    ],
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "う.る",
+      "う.れる"
+    ],
+    "strokes": 7,
+    "heisig": "sell",
+    "examples": [
+      {
+        "word": "売僧",
+        "reading": "まいす",
+        "meaning": "corrupt monk; greedy monk"
+      },
+      {
+        "word": "焼売",
+        "reading": "しゅうまい",
+        "meaning": "shumai; shaomai"
+      },
+      {
+        "word": "売券",
+        "reading": "うりけん",
+        "meaning": "certificate of sale; deed of sale"
+      }
+    ]
+  },
+  {
+    "kanji": "発",
+    "meanings": [
+      "counter for gunshots",
+      "departure",
+      "discharge",
+      "disclose",
+      "emit",
+      "publish",
+      "start from"
+    ],
+    "on": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kun": [
+      "あば.く",
+      "おこ.る",
+      "た.つ",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "strokes": 9,
+    "heisig": "discharge",
+    "examples": [
+      {
+        "word": "発祥",
+        "reading": "はっしょう",
+        "meaning": "origin"
+      },
+      {
+        "word": "発煙",
+        "reading": "はつえん",
+        "meaning": "emitting smoke; fuming"
+      },
+      {
+        "word": "発覚",
+        "reading": "はっかく",
+        "meaning": "discovery; coming to light"
+      }
+    ]
+  },
+  {
+    "kanji": "飯",
+    "meanings": [
+      "boiled rice",
+      "meal"
+    ],
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "めし"
+    ],
+    "strokes": 12,
+    "heisig": "meal",
+    "examples": [
+      {
+        "word": "飯綱",
+        "reading": "いいずな",
+        "meaning": "least weasel (Mustela nivalis)"
+      },
+      {
+        "word": "男飯",
+        "reading": "おとこめし",
+        "meaning": "dude food; food that is (stereotypically) appealing to men"
+      },
+      {
+        "word": "黄飯",
+        "reading": "おうはん",
+        "meaning": "yellow rice meal (coloured with essence of gardenia fruit)"
+      }
+    ]
+  },
+  {
+    "kanji": "病",
+    "meanings": [
+      "ill",
+      "sick"
+    ],
+    "on": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kun": [
+      "-や.み",
+      "や.む",
+      "やまい"
+    ],
+    "strokes": 10,
+    "heisig": "ill",
+    "examples": [
+      {
+        "word": "肺病",
+        "reading": "はいびょう",
+        "meaning": "lung disease; chest trouble"
+      },
+      {
+        "word": "餅病",
+        "reading": "もちびょう",
+        "meaning": "rice cake disease; blister blight"
+      },
+      {
+        "word": "恋病",
+        "reading": "こいやまい",
+        "meaning": "lovesickness"
+      }
+    ]
+  },
+  {
+    "kanji": "品",
+    "meanings": [
+      "article",
+      "counter for meal courses",
+      "dignity",
+      "goods",
+      "refinement"
+    ],
+    "on": [
+      "ヒン",
+      "ホン"
+    ],
+    "kun": [
+      "しな"
+    ],
+    "strokes": 9,
+    "heisig": "goods",
+    "examples": [
+      {
+        "word": "九品",
+        "reading": "くほん",
+        "meaning": "nine levels of Amitabha's Pure Land; see: "
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "piece; production"
+      },
+      {
+        "word": "本品",
+        "reading": "ほんぴん",
+        "meaning": "this product; this item"
+      }
+    ]
+  },
+  {
+    "kanji": "不",
+    "meanings": [
+      "bad",
+      "clumsy",
+      "negative",
+      "non-",
+      "ugly"
+    ],
+    "on": [
+      "フ",
+      "ブ"
+    ],
+    "kun": [],
+    "strokes": 4,
+    "heisig": "negative",
+    "examples": [
+      {
+        "word": "不変",
+        "reading": "ふへん",
+        "meaning": "eternal; everlasting"
+      },
+      {
+        "word": "不敵",
+        "reading": "ふてき",
+        "meaning": "daring; fearless"
+      },
+      {
+        "word": "不評",
+        "reading": "ふひょう",
+        "meaning": "bad reputation; poor reception"
+      }
+    ]
+  },
+  {
+    "kanji": "風",
+    "meanings": [
+      "air",
+      "manner",
+      "style",
+      "wind"
+    ],
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [
+      "かざ-",
+      "かぜ"
+    ],
+    "strokes": 9,
+    "heisig": "wind",
+    "examples": [
+      {
+        "word": "風牌",
+        "reading": "フォンパイ",
+        "meaning": "wind tiles; Chinese"
+      },
+      {
+        "word": "蕉風",
+        "reading": "しょうふう",
+        "meaning": "correct style in a haiku (like Basho's)"
+      },
+      {
+        "word": "風倒",
+        "reading": "ふうとう",
+        "meaning": "falling due to a strong wind; being toppled by the wind"
+      }
+    ]
+  },
+  {
+    "kanji": "服",
+    "meanings": [
+      "admit",
+      "clothing",
+      "discharge",
+      "obey"
+    ],
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "strokes": 8,
+    "heisig": "clothing",
+    "examples": [
+      {
+        "word": "夏服",
+        "reading": "なつふく",
+        "meaning": "summer clothes; summer wear"
+      },
+      {
+        "word": "服膺",
+        "reading": "ふくよう",
+        "meaning": "bearing in mind"
+      },
+      {
+        "word": "不服",
+        "reading": "ふふく",
+        "meaning": "dissatisfaction; discontent"
+      }
+    ]
+  },
+  {
+    "kanji": "物",
+    "meanings": [
+      "matter",
+      "object",
+      "thing"
+    ],
+    "on": [
+      "ブツ",
+      "モツ"
+    ],
+    "kun": [
+      "もの",
+      "もの-"
+    ],
+    "strokes": 8,
+    "heisig": "thing",
+    "examples": [
+      {
+        "word": "産物",
+        "reading": "さんぶつ",
+        "meaning": "product; produce"
+      },
+      {
+        "word": "物語",
+        "reading": "ものがたり",
+        "meaning": "story; tale"
+      },
+      {
+        "word": "物性",
+        "reading": "ぶっせい",
+        "meaning": "physical properties; properties of matter"
+      }
+    ]
+  },
+  {
+    "kanji": "文",
+    "meanings": [
+      "art",
+      "decoration",
+      "figures",
+      "literary radical (no. 67)",
+      "literature",
+      "plan",
+      "sentence",
+      "style"
+    ],
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [
+      "あや",
+      "ふみ"
+    ],
+    "strokes": 4,
+    "heisig": "sentence",
+    "examples": [
+      {
+        "word": "文壇",
+        "reading": "ぶんだん",
+        "meaning": "literary world; literary circles"
+      },
+      {
+        "word": "文運",
+        "reading": "ぶんうん",
+        "meaning": "cultural progress; advance of the arts"
+      },
+      {
+        "word": "達文",
+        "reading": "たつぶん",
+        "meaning": "skilled writing"
+      }
+    ]
+  },
+  {
+    "kanji": "別",
+    "meanings": [
+      "another",
+      "branch off",
+      "diverge",
+      "extra",
+      "fork",
+      "separate",
+      "specially"
+    ],
+    "on": [
+      "ベツ"
+    ],
+    "kun": [
+      "わ.ける",
+      "わか.れる"
+    ],
+    "strokes": 7,
+    "heisig": "separate",
+    "examples": [
+      {
+        "word": "別法",
+        "reading": "べっぽう",
+        "meaning": "different method"
+      },
+      {
+        "word": "別姓",
+        "reading": "べっせい",
+        "meaning": "different surname"
+      },
+      {
+        "word": "別掲",
+        "reading": "べっけい",
+        "meaning": "displaying separately; referencing elsewhere"
+      }
+    ]
+  },
+  {
+    "kanji": "勉",
+    "meanings": [
+      "diligent",
+      "encourage",
+      "endeavour",
+      "exertion",
+      "make effort",
+      "strive"
+    ],
+    "on": [
+      "ベン"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "strokes": 10,
+    "heisig": "exertion",
+    "examples": [
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "study; What subjects do you study at school?"
+      },
+      {
+        "word": "猛勉",
+        "reading": "もうべん",
+        "meaning": "studying hard; cramming"
+      },
+      {
+        "word": "勤勉",
+        "reading": "きんべん",
+        "meaning": "diligent; hard-working"
+      }
+    ]
+  },
+  {
+    "kanji": "歩",
+    "meanings": [
+      "counter for steps",
+      "walk"
+    ],
+    "on": [
+      "フ",
+      "ブ",
+      "ホ"
+    ],
+    "kun": [
+      "あゆ.む",
+      "ある.く"
+    ],
+    "strokes": 8,
+    "heisig": "walk",
+    "examples": [
+      {
+        "word": "進歩",
+        "reading": "しんぽ",
+        "meaning": "progress; advance"
+      },
+      {
+        "word": "乱歩",
+        "reading": "らんぽ",
+        "meaning": "random walk; see: "
+      },
+      {
+        "word": "歩割",
+        "reading": "ぶわり",
+        "meaning": "rate; ratio"
+      }
+    ]
+  },
+  {
+    "kanji": "方",
+    "meanings": [
+      "alternative",
+      "direction",
+      "person"
+    ],
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "-かた",
+      "-がた",
+      "かた"
+    ],
+    "strokes": 4,
+    "heisig": "direction",
+    "examples": [
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "dusk"
+      },
+      {
+        "word": "地方",
+        "reading": "ちほう",
+        "meaning": "district; region"
+      },
+      {
+        "word": "方杖",
+        "reading": "ほうづえ",
+        "meaning": "brace (in construction); angle brace"
+      }
+    ]
+  },
+  {
+    "kanji": "妹",
+    "meanings": [
+      "younger sister"
+    ],
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "いもうと"
+    ],
+    "strokes": 8,
+    "heisig": "younger sister",
+    "examples": [
+      {
+        "word": "従妹",
+        "reading": "じゅうまい",
+        "meaning": "cousin (younger female); see: "
+      },
+      {
+        "word": "弟妹",
+        "reading": "ていまい",
+        "meaning": "younger brother and sister"
+      },
+      {
+        "word": "妹婿",
+        "reading": "いもうとむこ",
+        "meaning": "the husband of one's younger sister"
+      }
+    ]
+  },
+  {
+    "kanji": "味",
+    "meanings": [
+      "flavor",
+      "taste"
+    ],
+    "on": [
+      "ミ"
+    ],
+    "kun": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "strokes": 8,
+    "heisig": "flavor",
+    "examples": [
+      {
+        "word": "味到",
+        "reading": "みとう",
+        "meaning": "see: ; 味得"
+      },
+      {
+        "word": "味見",
+        "reading": "あじみ",
+        "meaning": "tasting; sampling"
+      },
+      {
+        "word": "大味",
+        "reading": "おおあじ",
+        "meaning": "flat-tasting; bland"
+      }
+    ]
+  },
+  {
+    "kanji": "明",
+    "meanings": [
+      "bright",
+      "light"
+    ],
+    "on": [
+      "ミョウ",
+      "ミン",
+      "メイ"
+    ],
+    "kun": [
+      "-あ.け",
+      "あ.かす",
+      "あ.かり",
+      "あ.く",
+      "あ.くる",
+      "あ.ける",
+      "あか.らむ",
+      "あか.るい",
+      "あか.るむ",
+      "あき.らか"
+    ],
+    "strokes": 8,
+    "heisig": "bright",
+    "examples": [
+      {
+        "word": "明太",
+        "reading": "メンタイ",
+        "meaning": "walleye pollack (Theragra chalcogramma); Alaska pollack"
+      },
+      {
+        "word": "明暗",
+        "reading": "めいあん",
+        "meaning": "light and darkness; light and shade"
+      },
+      {
+        "word": "明春",
+        "reading": "みょうしゅん",
+        "meaning": "next spring"
+      }
+    ]
+  },
+  {
+    "kanji": "目",
+    "meanings": [
+      "care",
+      "class",
+      "experience",
+      "eye",
+      "favor",
+      "insight",
+      "look"
+    ],
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "-め",
+      "ま-",
+      "め"
+    ],
+    "strokes": 5,
+    "heisig": "eye",
+    "examples": [
+      {
+        "word": "目貫",
+        "reading": "めぬき",
+        "meaning": "sword hilt; decorative hilt"
+      },
+      {
+        "word": "目先",
+        "reading": "めさき",
+        "meaning": "before one's eyes; under one's nose"
+      },
+      {
+        "word": "地目",
+        "reading": "ちもく",
+        "meaning": "land classification"
+      }
+    ]
+  },
+  {
+    "kanji": "問",
+    "meanings": [
+      "ask",
+      "problem",
+      "question"
+    ],
+    "on": [
+      "モン"
+    ],
+    "kun": [
+      "と.い",
+      "と.う",
+      "とん"
+    ],
+    "strokes": 11,
+    "heisig": "question",
+    "examples": [
+      {
+        "word": "問屋",
+        "reading": "とんや",
+        "meaning": "wholesale store; wholesale dealer"
+      },
+      {
+        "word": "詰問",
+        "reading": "きつもん",
+        "meaning": "cross-examination; close questioning"
+      },
+      {
+        "word": "査問",
+        "reading": "さもん",
+        "meaning": "inquiry; enquiry"
+      }
+    ]
+  },
+  {
+    "kanji": "夜",
+    "meanings": [
+      "evening",
+      "night"
+    ],
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "よ",
+      "よる"
+    ],
+    "strokes": 8,
+    "heisig": "night",
+    "examples": [
+      {
+        "word": "夜酒",
+        "reading": "よざけ",
+        "meaning": "nightcap; drink at night"
+      },
+      {
+        "word": "夜露",
+        "reading": "よつゆ",
+        "meaning": "evening dew; night dew"
+      },
+      {
+        "word": "除夜",
+        "reading": "じょや",
+        "meaning": "New Year's Eve"
+      }
+    ]
+  },
+  {
+    "kanji": "野",
+    "meanings": [
+      "civilian life",
+      "field",
+      "plains",
+      "rustic"
+    ],
+    "on": [
+      "ショ",
+      "ヤ"
+    ],
+    "kun": [
+      "の",
+      "の-"
+    ],
+    "strokes": 11,
+    "heisig": "plains",
+    "examples": [
+      {
+        "word": "田野",
+        "reading": "でんや",
+        "meaning": "cultivated fields; countryside"
+      },
+      {
+        "word": "野花",
+        "reading": "のばな",
+        "meaning": "wild flower"
+      },
+      {
+        "word": "野望",
+        "reading": "やぼう",
+        "meaning": "ambition; aspiration"
+      }
+    ]
+  },
+  {
+    "kanji": "有",
+    "meanings": [
+      "approx",
+      "exist",
+      "happen",
+      "have",
+      "occur",
+      "possess"
+    ],
+    "on": [
+      "ウ",
+      "ユウ"
+    ],
+    "kun": [
+      "あ.る"
+    ],
+    "strokes": 6,
+    "heisig": "possess",
+    "examples": [
+      {
+        "word": "都有",
+        "reading": "とゆう",
+        "meaning": "being owned by the Tokyo metropolitan government"
+      },
+      {
+        "word": "有色",
+        "reading": "ゆうしょく",
+        "meaning": "colored; coloured"
+      },
+      {
+        "word": "包有",
+        "reading": "ほうゆう",
+        "meaning": "inclusion; containing"
+      }
+    ]
+  },
+  {
+    "kanji": "夕",
+    "meanings": [
+      "evening"
+    ],
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "ゆう"
+    ],
+    "strokes": 3,
+    "heisig": "evening",
+    "examples": [
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "dusk"
+      },
+      {
+        "word": "夕顔",
+        "reading": "ゆうがお",
+        "meaning": "calabash"
+      },
+      {
+        "word": "夕闇",
+        "reading": "ゆうやみ",
+        "meaning": "dusk; twilight"
+      }
+    ]
+  },
+  {
+    "kanji": "曜",
+    "meanings": [
+      "weekday"
+    ],
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "strokes": 18,
+    "heisig": "weekday",
+    "examples": [
+      {
+        "word": "六曜",
+        "reading": "ろくよう",
+        "meaning": "see: ; see: "
+      },
+      {
+        "word": "水曜",
+        "reading": "すいよう",
+        "meaning": "Wednesday; see: "
+      },
+      {
+        "word": "曜霊",
+        "reading": "ようれい",
+        "meaning": "the sun; literary term"
+      }
+    ]
+  },
+  {
+    "kanji": "洋",
+    "meanings": [
+      "Western style",
+      "foreign",
+      "ocean",
+      "sea"
+    ],
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "strokes": 9,
+    "heisig": "ocean",
+    "examples": [
+      {
+        "word": "洋書",
+        "reading": "ようしょ",
+        "meaning": "Western book"
+      },
+      {
+        "word": "洋車",
+        "reading": "ヤンチョ",
+        "meaning": "rickshaw; Chinese: "
+      },
+      {
+        "word": "三洋",
+        "reading": "さんよう",
+        "meaning": "Sanyo"
+      }
+    ]
+  },
+  {
+    "kanji": "用",
+    "meanings": [
+      "business",
+      "employ",
+      "service",
+      "use",
+      "utilize"
+    ],
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "もち.いる"
+    ],
+    "strokes": 5,
+    "heisig": "utilize",
+    "examples": [
+      {
+        "word": "供用",
+        "reading": "きょうよう",
+        "meaning": "offer for use"
+      },
+      {
+        "word": "用語",
+        "reading": "ようご",
+        "meaning": "term; terminology"
+      },
+      {
+        "word": "用弁",
+        "reading": "ようべん",
+        "meaning": "finishing one's business; settling an affair"
+      }
+    ]
+  },
+  {
+    "kanji": "理",
+    "meanings": [
+      "arrangement",
+      "justice",
+      "logic",
+      "reason",
+      "truth"
+    ],
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "ことわり"
+    ],
+    "strokes": 11,
+    "heisig": "logic",
+    "examples": [
+      {
+        "word": "論理",
+        "reading": "ろんり",
+        "meaning": "logic"
+      },
+      {
+        "word": "連理",
+        "reading": "れんり",
+        "meaning": "trees with entwined branches"
+      },
+      {
+        "word": "受理",
+        "reading": "じゅり",
+        "meaning": "acceptance"
+      }
+    ]
+  },
+  {
+    "kanji": "立",
+    "meanings": [
+      "erect",
+      "rise",
+      "set up",
+      "stand up"
+    ],
+    "on": [
+      "リットル",
+      "リツ",
+      "リュウ"
+    ],
+    "kun": [
+      "-た.つ",
+      "-た.て",
+      "-た.てる",
+      "-だ.て",
+      "-だ.てる",
+      "た.ち-",
+      "た.つ",
+      "た.て-",
+      "た.てる",
+      "たて-"
+    ],
+    "strokes": 5,
+    "heisig": "stand up",
+    "examples": [
+      {
+        "word": "特立",
+        "reading": "とくりつ",
+        "meaning": "prominence; independence"
+      },
+      {
+        "word": "立体",
+        "reading": "りったい",
+        "meaning": "solid body; three-dimensional object"
+      },
+      {
+        "word": "立教",
+        "reading": "りっきょう",
+        "meaning": "establishment (of religious teachings); formulation"
+      }
+    ]
+  },
+  {
+    "kanji": "旅",
+    "meanings": [
+      "travel",
+      "trip"
+    ],
+    "on": [
+      "リョ"
+    ],
+    "kun": [
+      "たび"
+    ],
+    "strokes": 10,
+    "heisig": "trip",
+    "examples": [
+      {
+        "word": "逆旅",
+        "reading": "げきりょ",
+        "meaning": "inn"
+      },
+      {
+        "word": "旅館",
+        "reading": "りょかん",
+        "meaning": "ryokan; traditional Japanese inn"
+      },
+      {
+        "word": "旅次",
+        "reading": "りょじ",
+        "meaning": "hotel; inn"
+      }
+    ]
+  },
+  {
+    "kanji": "料",
+    "meanings": [
+      "fee",
+      "materials"
+    ],
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "strokes": 10,
+    "heisig": "fee",
+    "examples": [
+      {
+        "word": "料亭",
+        "reading": "りょうてい",
+        "meaning": "ryotei"
+      },
+      {
+        "word": "塗料",
+        "reading": "とりょう",
+        "meaning": "paints; painting material"
+      },
+      {
+        "word": "料紙",
+        "reading": "りょうし",
+        "meaning": "writing paper"
+      }
+    ]
+  },
+  {
+    "kanji": "力",
+    "meanings": [
+      "bear up",
+      "exert",
+      "power",
+      "strain",
+      "strength",
+      "strong"
+    ],
+    "on": [
+      "リイ",
+      "リキ",
+      "リョク"
+    ],
+    "kun": [
+      "ちから"
+    ],
+    "strokes": 2,
+    "heisig": "power",
+    "examples": [
+      {
+        "word": "法力",
+        "reading": "ほうりき",
+        "meaning": "power of Buddhism"
+      },
+      {
+        "word": "応力",
+        "reading": "おうりょく",
+        "meaning": "tension"
+      },
+      {
+        "word": "精力",
+        "reading": "せいりょく",
+        "meaning": "energy; vigor"
+      }
+    ]
+  }
+]
