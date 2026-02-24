@@ -36,6 +36,13 @@
         </template>
       </nav>
 
+      <!-- Today Button -->
+      <div class="date-actions">
+        <button class="today-btn" @click="goToday()" :disabled="isToday">
+          Today
+        </button>
+      </div>
+
       <!-- Date Navigation -->
       <div class="date-nav">
         <button class="nav-btn" @click="prevDay()" :disabled="isStart">
@@ -47,11 +54,6 @@
         </div>
         <button class="nav-btn" @click="nextDay()" :disabled="isToday">
           &rarr;
-        </button>
-      </div>
-      <div class="date-actions">
-        <button class="today-btn" @click="goToday()" :disabled="isToday">
-          Today
         </button>
       </div>
 

@@ -86,7 +86,7 @@ header h1 {
   align-items: center;
   justify-content: center;
   gap: 10px;
-  margin-bottom: 8px;
+  margin-bottom: 28px;
 }
 
 .nav-btn {
@@ -147,7 +147,7 @@ header h1 {
 
 .date-actions {
   text-align: center;
-  margin-bottom: 28px;
+  margin-bottom: 12px;
 }
 
 .today-btn {
