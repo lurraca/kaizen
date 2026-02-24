@@ -441,7 +441,7 @@ footer a:hover {
 /* Responsive - Desktop */
 @media (min-width: 768px) {
   .container {
-    max-width: 600px;
+    max-width: 720px;
     padding: 48px 32px;
   }
 
@@ -455,32 +455,57 @@ footer a:hover {
     gap: 12px;
   }
 
+  .kanji-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 40px;
+    text-align: center;
+  }
+
   .kanji-character {
     font-size: 12rem;
-    margin-bottom: 16px;
+    grid-column: 1;
+    grid-row: 1 / 4;
+    align-self: center;
+    margin-bottom: 0;
   }
 
   .meanings {
+    grid-column: 2;
+    grid-row: 1;
     font-size: 28px;
-  }
-
-  .reading-value {
-    font-size: 22px;
+    margin-bottom: 16px;
+    align-self: end;
   }
 
   .readings {
-    margin-bottom: 24px;
+    grid-column: 2;
+    grid-row: 2;
+    margin-bottom: 16px;
+  }
+
+  .details {
+    grid-column: 2;
+    grid-row: 3;
+    align-self: start;
+    margin-bottom: 0;
   }
 
   .examples {
-    margin-top: 8px;
+    grid-column: 1 / -1;
+    grid-row: 4;
+    margin-top: 32px;
   }
 }
 
 @media (min-width: 1024px) {
   .container {
-    max-width: 680px;
+    max-width: 860px;
     padding: 56px 40px;
+  }
+
+  .kanji-card {
+    gap: 0 60px;
   }
 
   .kanji-character {
@@ -489,7 +514,6 @@ footer a:hover {
 
   .meanings {
     font-size: 32px;
-    margin-bottom: 28px;
   }
 
   .reading-value {
