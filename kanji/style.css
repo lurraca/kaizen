@@ -12,6 +12,7 @@
 /* Base */
 html {
   font-size: 100%;
+  min-height: 100%;
 }
 
 body {
@@ -30,8 +31,6 @@ body {
   margin: 0 auto;
   padding: 20px 16px;
   flex: 1;
-  display: flex;
-  flex-direction: column;
   width: 100%;
 }
 
@@ -86,8 +85,8 @@ header h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
-  margin-bottom: 12px;
+  gap: 10px;
+  margin-bottom: 8px;
 }
 
 .nav-btn {
@@ -148,7 +147,7 @@ header h1 {
 
 .date-actions {
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
 }
 
 .today-btn {
@@ -191,7 +190,7 @@ header h1 {
   font-size: 8rem;
   line-height: 1.1;
   color: #111;
-  margin-bottom: 8px;
+  margin-bottom: 12px;
   text-decoration: none;
   display: block;
 }
@@ -269,14 +268,8 @@ header h1 {
 }
 
 .example {
-  padding: 8px 0;
+  padding: 10px 0;
   border-bottom: 1px solid #f5f5f5;
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: center;
-  gap: 8px;
-  width: 100%;
 }
 
 .example:last-child {
@@ -286,6 +279,7 @@ header h1 {
 .example-word {
   font-size: 20px;
   color: #111;
+  margin-right: 8px;
 }
 
 .example-reading {
@@ -297,7 +291,8 @@ header h1 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #777;
-  flex-basis: 100%;
+  display: block;
+  margin-top: 2px;
 }
 
 /* Footer */
@@ -446,78 +441,46 @@ footer a:hover {
 /* Responsive - Desktop */
 @media (min-width: 768px) {
   .container {
-    max-width: 720px;
-    padding: 40px 32px;
+    max-width: 600px;
+    padding: 48px 32px;
   }
 
   header h1 {
     font-size: 32px;
-    margin-bottom: 24px;
+    margin-bottom: 28px;
   }
 
   .level-selector {
-    margin-bottom: 24px;
+    margin-bottom: 28px;
     gap: 12px;
-  }
-
-  .date-nav {
-    margin-bottom: 32px;
-    gap: 12px;
-  }
-
-  .kanji-card {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    gap: 0 40px;
-    text-align: left;
-    align-items: start;
   }
 
   .kanji-character {
     font-size: 12rem;
-    grid-column: 1;
-    grid-row: 1 / 3;
-    text-align: center;
-    align-self: center;
+    margin-bottom: 16px;
   }
 
   .meanings {
-    grid-column: 2;
-    grid-row: 1;
     font-size: 28px;
-    margin-bottom: 16px;
-    padding-top: 16px;
+  }
+
+  .reading-value {
+    font-size: 22px;
   }
 
   .readings {
-    grid-column: 2;
-    grid-row: 2;
-    margin-bottom: 16px;
-  }
-
-  .details {
-    grid-column: 2;
-    grid-row: 3;
-    justify-content: flex-start;
-    margin-bottom: 0;
+    margin-bottom: 24px;
   }
 
   .examples {
-    grid-column: 1 / -1;
-    grid-row: 4;
-    margin-top: 24px;
+    margin-top: 8px;
   }
 }
 
 @media (min-width: 1024px) {
   .container {
-    max-width: 860px;
-    padding: 48px 40px;
-  }
-
-  .kanji-card {
-    gap: 0 60px;
+    max-width: 680px;
+    padding: 56px 40px;
   }
 
   .kanji-character {
@@ -526,9 +489,10 @@ footer a:hover {
 
   .meanings {
     font-size: 32px;
+    margin-bottom: 28px;
   }
 
   .reading-value {
-    font-size: 22px;
+    font-size: 24px;
   }
 }
