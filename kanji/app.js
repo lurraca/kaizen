@@ -248,11 +248,17 @@ function kanjiApp() {
       }
     },
 
-    strokeClass(i) {
-      if (this.strokeStep === -1) return 'stroke-path stroke-drawn';
-      if (i < this.strokeStep) return 'stroke-path stroke-drawn';
-      if (this.strokeAnimating && i === this.strokeStep) return 'stroke-path stroke-drawing';
-      return 'stroke-path stroke-hidden';
+    get strokeSvgContent() {
+      if (!this.currentKanji?.strokePaths) return '';
+      return this.currentKanji.strokePaths.map((d, i) => {
+        let cls = 'stroke-path stroke-drawn';
+        if (this.strokeStep !== -1) {
+          if (i < this.strokeStep) cls = 'stroke-path stroke-drawn';
+          else if (this.strokeAnimating && i === this.strokeStep) cls = 'stroke-path stroke-drawing';
+          else cls = 'stroke-path stroke-hidden';
+        }
+        return `<path d="${d}" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="${cls}"/>`;
+      }).join('');
     },
 
     playStrokes() {

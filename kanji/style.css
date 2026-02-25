@@ -106,8 +106,8 @@ header h1 {
 }
 
 .nav-btn:hover:not(:disabled) {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .nav-btn:disabled {
@@ -135,8 +135,8 @@ header h1 {
 }
 
 .date-btn:hover {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .day-label {
@@ -163,8 +163,8 @@ header h1 {
 }
 
 .today-btn:hover:not(:disabled) {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .today-btn:disabled {
@@ -196,7 +196,7 @@ header h1 {
 }
 
 .kanji-character:hover {
-  color: #4183c4;
+  color: #BC002D;
 }
 
 .meanings {
@@ -284,7 +284,7 @@ header h1 {
 
 .example-reading {
   font-size: 14px;
-  color: #4183c4;
+  color: #BC002D;
 }
 
 .example-meaning {
@@ -328,8 +328,8 @@ header h1 {
 }
 
 .stroke-btn:hover:not(:disabled) {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .stroke-btn:disabled {
@@ -392,7 +392,7 @@ footer p {
 }
 
 footer a {
-  color: #4183c4;
+  color: #BC002D;
   text-decoration: none;
 }
 
@@ -449,8 +449,8 @@ footer a:hover {
 }
 
 .calendar-nav:hover:not(:disabled) {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .calendar-nav:disabled {
@@ -507,11 +507,11 @@ footer a:hover {
 
 .calendar-day.today {
   font-weight: bold;
-  color: #4183c4;
+  color: #BC002D;
 }
 
 .calendar-day.selected {
-  background: #4183c4;
+  background: #BC002D;
   color: #fff;
   font-weight: bold;
 }
