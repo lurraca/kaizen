@@ -70,13 +70,13 @@ header h1 {
 }
 
 .level-selector button:hover {
-  border-color: #4183c4;
-  color: #4183c4;
+  border-color: #BC002D;
+  color: #BC002D;
 }
 
 .level-selector button.active {
-  background: #4183c4;
-  border-color: #4183c4;
+  background: #BC002D;
+  border-color: #BC002D;
   color: #fff;
 }
 
@@ -295,6 +295,88 @@ header h1 {
   margin-top: 2px;
 }
 
+/* Stroke Order */
+.stroke-order {
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.stroke-order h3 {
+  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #777;
+  margin-bottom: 12px;
+}
+
+.stroke-controls {
+  margin-bottom: 12px;
+}
+
+.stroke-btn {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  padding: 6px 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.stroke-btn:hover:not(:disabled) {
+  border-color: #4183c4;
+  color: #4183c4;
+}
+
+.stroke-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.stroke-svg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.stroke-svg-container svg {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.stroke-path {
+  stroke: #333;
+  transition: opacity 0.3s;
+}
+
+.stroke-drawn {
+  stroke: #333;
+  opacity: 1;
+}
+
+.stroke-drawing {
+  stroke: #BC002D;
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500;
+  animation: draw-stroke 0.5s ease forwards;
+}
+
+.stroke-hidden {
+  opacity: 0;
+}
+
+@keyframes draw-stroke {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
 /* Footer */
 footer {
   margin-top: auto;
@@ -491,9 +573,15 @@ footer a:hover {
     margin-bottom: 0;
   }
 
-  .examples {
+  .stroke-order {
     grid-column: 1 / -1;
     grid-row: 4;
+    margin-top: 32px;
+  }
+
+  .examples {
+    grid-column: 1 / -1;
+    grid-row: 5;
     margin-top: 32px;
   }
 }

@@ -113,6 +113,9 @@ function kanjiApp() {
       const seed = cycleNum * 31 + this.level.charCodeAt(1);
       const shuffled = seededShuffle(this.kanjiList, seed);
       this.currentKanji = shuffled[posInCycle];
+      this.showStrokes = false;
+      this.strokeAnimating = false;
+      this.strokeStep = -1;
 
       // Update URL hash without triggering hashchange
       const hash = `#${formatDate(date)}`;
@@ -230,6 +233,41 @@ function kanjiApp() {
       if (cell.disabled || !cell.date) return;
       this.selectKanjiForDate(cell.date);
       this.calendarOpen = false;
+    },
+
+    // Stroke order state
+    showStrokes: false,
+    strokeAnimating: false,
+    strokeStep: -1, // -1 = show all, 0..n = animating up to step
+
+    toggleStrokes() {
+      this.showStrokes = !this.showStrokes;
+      if (this.showStrokes) {
+        this.strokeStep = -1;
+        this.strokeAnimating = false;
+      }
+    },
+
+    playStrokes() {
+      if (!this.currentKanji?.strokePaths) return;
+      this.showStrokes = true;
+      this.strokeAnimating = true;
+      this.strokeStep = 0;
+      this._animateNextStroke();
+    },
+
+    _animateNextStroke() {
+      if (!this.strokeAnimating) return;
+      const total = this.currentKanji.strokePaths.length;
+      if (this.strokeStep >= total) {
+        this.strokeAnimating = false;
+        this.strokeStep = -1; // show all
+        return;
+      }
+      setTimeout(() => {
+        this.strokeStep++;
+        this._animateNextStroke();
+      }, 600);
     },
 
     get isToday() {

@@ -125,6 +125,34 @@
             </span>
           </div>
 
+          <div class="stroke-order" x-show="currentKanji.strokePaths?.length > 0">
+            <h3>Stroke Order</h3>
+            <div class="stroke-controls">
+              <button class="stroke-btn" @click="playStrokes()" :disabled="strokeAnimating">
+                Play
+              </button>
+            </div>
+            <div class="stroke-svg-container">
+              <svg viewBox="0 0 109 109" xmlns="http://www.w3.org/2000/svg">
+                <template x-for="(d, i) in currentKanji.strokePaths" :key="i">
+                  <path
+                    :d="d"
+                    fill="none"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    :class="{
+                      'stroke-path': true,
+                      'stroke-drawn': strokeStep === -1 || i < strokeStep,
+                      'stroke-drawing': strokeAnimating && i === strokeStep,
+                      'stroke-hidden': strokeAnimating && i > strokeStep
+                    }"
+                  />
+                </template>
+              </svg>
+            </div>
+          </div>
+
           <div class="examples" x-show="currentKanji.examples?.length > 0">
             <h3>Example Words</h3>
             <template x-for="ex in currentKanji.examples" :key="ex.word">
