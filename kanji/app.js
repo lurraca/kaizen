@@ -248,6 +248,13 @@ function kanjiApp() {
       }
     },
 
+    strokeClass(i) {
+      if (this.strokeStep === -1) return 'stroke-path stroke-drawn';
+      if (i < this.strokeStep) return 'stroke-path stroke-drawn';
+      if (this.strokeAnimating && i === this.strokeStep) return 'stroke-path stroke-drawing';
+      return 'stroke-path stroke-hidden';
+    },
+
     playStrokes() {
       if (!this.currentKanji?.strokePaths) return;
       this.showStrokes = true;

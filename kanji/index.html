@@ -141,12 +141,7 @@
                     stroke-width="3"
                     stroke-linecap="round"
                     stroke-linejoin="round"
-                    :class="{
-                      'stroke-path': true,
-                      'stroke-drawn': strokeStep === -1 || i < strokeStep,
-                      'stroke-drawing': strokeAnimating && i === strokeStep,
-                      'stroke-hidden': strokeAnimating && i > strokeStep
-                    }"
+                    :class="strokeClass(i)"
                   />
                 </template>
               </svg>
