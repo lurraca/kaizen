@@ -4,20 +4,39 @@ use worker::*;
 const UCD_URL: &str = "https://www.ucd.ie/japan/exams/";
 const KV_KEY: &str = "page_content_hash";
 
+/// Entry point for HTTP requests — allows manual trigger via GET /run
+#[event(fetch)]
+async fn fetch(req: Request, env: Env, _ctx: Context) -> Result<Response> {
+    if req.path() == "/run" {
+        console_log!("JLPT checker running (manual trigger)...");
+        match check_jlpt_page(&env).await {
+            Ok(summary) => Response::ok(summary),
+            Err(e) => {
+                console_error!("Error checking JLPT page: {:?}", e);
+                let _ = send_ntfy_notification(&env, &format!("JLPT checker error: {}", e)).await;
+                Response::error(format!("Error: {}", e), 500)
+            }
+        }
+    } else {
+        Response::ok("JLPT checker alive. GET /run to trigger manually.")
+    }
+}
+
 /// Entry point for scheduled (cron) events
 #[event(scheduled)]
 async fn scheduled(_event: ScheduledEvent, env: Env, _ctx: ScheduleContext) {
     console_log!("JLPT checker running (scheduled)...");
 
-    if let Err(e) = check_jlpt_page(&env).await {
-        console_error!("Error checking JLPT page: {:?}", e);
-        let _ = send_ntfy_notification(&env, &format!("JLPT checker error: {}", e)).await;
+    match check_jlpt_page(&env).await {
+        Ok(summary) => console_log!("Completed: {}", summary),
+        Err(e) => {
+            console_error!("Error checking JLPT page: {:?}", e);
+            let _ = send_ntfy_notification(&env, &format!("JLPT checker error: {}", e)).await;
+        }
     }
 }
 
-
-
-async fn check_jlpt_page(env: &Env) -> Result<()> {
+async fn check_jlpt_page(env: &Env) -> Result<String> {
     // Fetch the UCD JLPT page with a browser User-Agent
     // (CloudFront blocks requests without one)
     let headers = Headers::new();
@@ -93,7 +112,11 @@ async fn check_jlpt_page(env: &Env) -> Result<()> {
         kv.put(KV_KEY, &content_hash)?.execute().await?;
     }
 
-    Ok(())
+    let summary = format!(
+        "status=ok hash={} changed={} has_2026={} msg={}",
+        &content_hash[..12], content_changed, has_2026, message
+    );
+    Ok(summary)
 }
 
 /// Extract only visible text content by stripping all HTML tags.

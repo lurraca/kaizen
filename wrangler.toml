@@ -2,10 +2,14 @@ name = "kaizen"
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-12-01"
 
+[observability]
+enabled = true
+head_sampling_rate = 1
+
 [build]
 command = "cargo build --release --target wasm32-unknown-unknown && mkdir -p build/worker && ~/.cargo/bin/wasm-bindgen --target bundler --out-dir build/worker target/wasm32-unknown-unknown/release/kaizen.wasm && cp src/shim.mjs build/worker/shim.mjs"
 
-# Cron trigger - runs daily at 9:00 UTC
+# Cron trigger - runs daily at 15:00 UTC
 [triggers]
 crons = ["0 15 * * *"]
 

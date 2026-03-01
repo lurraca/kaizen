@@ -8,6 +8,9 @@ const instance = await WebAssembly.instantiate(wasm, {
 kaizen.__wbg_set_wasm(instance.exports);
 
 export default {
+  async fetch(request, env, ctx) {
+    return await kaizen.fetch(request, env, ctx);
+  },
   async scheduled(event, env, ctx) {
     await kaizen.scheduled(event, env, ctx);
   },
