@@ -199,8 +199,15 @@ async fn send_ntfy_notification(env: &Env, message: &str) -> Result<()> {
         .with_body(Some(message.into()));
 
     let request = Request::new_with_init(&ntfy_url, &init)?;
-    Fetch::Request(request).send().await?;
+    let mut ntfy_response = Fetch::Request(request).send().await?;
+    let status = ntfy_response.status_code();
+    let body = ntfy_response.text().await.unwrap_or_default();
 
-    console_log!("Notification sent to ntfy.sh/{}", ntfy_topic);
+    if status < 200 || status >= 300 {
+        console_error!("ntfy.sh returned HTTP {}: {}", status, body);
+        return Err(Error::RustError(format!("ntfy HTTP {}: {}", status, body)));
+    }
+
+    console_log!("Notification sent to ntfy.sh/{} (HTTP {})", ntfy_topic, status);
     Ok(())
 }
