@@ -2,3 +2,14 @@ target/
 build/
 node_modules/
 .wrangler/
+
+# Local agent / tooling state
+.claude/
+.playwright-mcp/
+
+# Tadoku source books — large scanned PDFs, not redistributable
+*.pdf
+tadoku-lvl0/
+
+# WSL alternate-data-stream droppings
+*:Zone.Identifier
